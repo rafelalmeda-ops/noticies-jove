@@ -1,0 +1,73 @@
+{
+  "categories": {
+    "politica": {
+      "nom": "Política",
+      "pista": "Política i institucions (govern, eleccions, lleis). Explica-ho com una lliçó de ciutadania, sense prendre partit.",
+      "feeds": [
+        {"source": "RTVE", "ambit": "Espanya", "url": "https://www.rtve.es/api/noticias.rss"},
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada"},
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/politica.xml"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/politica/"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"}
+      ]
+    },
+    "economia": {
+      "nom": "Economia",
+      "pista": "Economia que afecta la vida quotidiana (preus, feina, habitatge, empreses, tecnologia).",
+      "feeds": [
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"},
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/economia.xml"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/economia/"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"}
+      ]
+    },
+    "medi_ambient": {
+      "nom": "Medi ambient",
+      "pista": "Natura, clima, animals, energia i sostenibilitat.",
+      "feeds": [
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/clima-y-medio-ambiente/portada"},
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/natura.xml"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"}
+      ]
+    },
+    "esports": {
+      "nom": "Esports",
+      "pista": "Resultats i fets esportius destacats (futbol, tennis, bàsquet, motor, atletisme...).",
+      "feeds": [
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/deportes.xml"},
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/esports/"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/sport/rss.xml"}
+      ]
+    },
+    "successos": {
+      "nom": "Successos",
+      "pista": "Fets de la vida real (accidents, temporals, rescats, operacions policials). Només els adequats per a la edat i sense detalls crus.",
+      "feeds": [
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/sucesos.xml"},
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/societat/"}
+      ]
+    },
+    "ciencia": {
+      "nom": "Ciència i tecnologia",
+      "pista": "Descobriments, espai, salut pública, invents i tecnologia.",
+      "feeds": [
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada"},
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/ciencia.xml"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/ciencia/"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"}
+      ]
+    },
+    "cultura": {
+      "nom": "Cultura",
+      "pista": "Música, cinema, llibres, videojocs, art i tradicions.",
+      "feeds": [
+        {"source": "El País", "ambit": "Espanya", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"},
+        {"source": "La Vanguardia", "ambit": "Catalunya", "url": "https://www.lavanguardia.com/rss/cultura.xml"},
+        {"source": "Ara", "ambit": "Catalunya", "url": "https://www.ara.cat/rss/cultura/"},
+        {"source": "BBC", "ambit": "Món", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"}
+      ]
+    }
+  }
+}
