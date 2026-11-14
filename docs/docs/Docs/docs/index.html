@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notícies en un minut</title>
+<meta name="description" content="Les notícies del dia de Catalunya, Espanya i el món, explicades fàcil i en un minut.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f3f6fa;
+    --ink: #16202e;
+    --muted: #55627a;
+    --line: #d7dee9;
+    --note: #e6edf7;
+    --c: #3a4a63;
+    --display: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
+    --body: "Atkinson Hyperlegible", Verdana, system-ui, sans-serif;
+  }
+  .cat-politica     { --c: #4b3fc4; }
+  .cat-economia     { --c: #0b7a5a; }
+  .cat-medi_ambient { --c: #3c7d16; }
+  .cat-esports      { --c: #c2410c; }
+  .cat-successos    { --c: #b4194f; }
+  .cat-ciencia      { --c: #0a76a0; }
+  .cat-cultura      { --c: #8a2fa6; }
+
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0f1620; --ink: #e8edf5; --muted: #9aa8bf; --line: #263245; --note: #182233; }
+    .cat-politica     { --c: #a29aff; }
+    .cat-economia     { --c: #3fcf9f; }
+    .cat-medi_ambient { --c: #8bd24f; }
+    .cat-esports      { --c: #ff9a5c; }
+    .cat-successos    { --c: #ff7aa6; }
+    .cat-ciencia      { --c: #4cc3ec; }
+    .cat-cultura      { --c: #d58cf0; }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 400 1.125rem/1.65 var(--body);
+  }
+  .wrap { max-width: 40rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+  header h1 {
+    font: 800 clamp(2.4rem, 9vw, 3.6rem)/1 var(--display);
+    letter-spacing: -0.02em;
+    margin: 0 0 .6rem;
+  }
+  header p { margin: 0; color: var(--muted); }
+
+  .filters {
+    display: flex; gap: .5rem; overflow-x: auto;
+    margin: 1.75rem -1.25rem 2.25rem; padding: .25rem 1.25rem;
+    scrollbar-width: none;
+  }
+  .filters::-webkit-scrollbar { display: none; }
+  .filters button {
+    flex: none; font: 700 .95rem var(--body); color: var(--ink);
+    background: transparent; border: 2px solid var(--line); border-radius: 999px;
+    padding: .4rem .95rem; cursor: pointer;
+  }
+  .filters button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+  article {
+    border-left: 6px solid var(--c);
+    padding: .1rem 0 .1rem 1.1rem;
+    margin: 0 0 3rem;
+  }
+  article.read { opacity: .62; }
+  .cat { font-weight: 700; color: var(--c); margin: 0; font-size: 1rem; }
+  article h2 {
+    font: 800 clamp(1.5rem, 5.5vw, 1.9rem)/1.15 var(--display);
+    letter-spacing: -0.01em; margin: .2rem 0 .5rem;
+  }
+  .meta { color: var(--muted); font-size: .95rem; display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin: 0 0 1rem; }
+  .text p { margin: 0 0 1rem; max-width: 36rem; }
+
+  .words { background: var(--note); border-radius: 10px; padding: .8rem 1rem; margin: 0 0 1rem; font-size: 1rem; }
+  .words dt { font-weight: 700; display: inline; }
+  .words dd { display: inline; margin: 0; }
+  .words dd::after { content: ""; display: block; height: .35rem; }
+  .words h3 { font: 700 1rem var(--body); margin: 0 0 .4rem; }
+
+  details.quiz { border-top: 1px solid var(--line); padding-top: .75rem; margin-bottom: 1rem; }
+  details.quiz summary { cursor: pointer; font-weight: 700; color: var(--c); }
+  details.quiz p { margin: .6rem 0 0; }
+  details.quiz .ans { color: var(--muted); }
+
+  .actions { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; }
+  .actions button {
+    font: 700 .95rem var(--body); cursor: pointer; color: var(--c);
+    background: transparent; border: 2px solid var(--c); border-radius: 8px; padding: .4rem .85rem;
+  }
+  .actions button[aria-pressed="true"] { background: var(--c); color: var(--bg); }
+  .src { font-size: .95rem; color: var(--muted); }
+  .src a { color: var(--ink); text-underline-offset: 3px; }
+
+  .state { color: var(--muted); border: 2px dashed var(--line); border-radius: 12px; padding: 1.25rem; }
+  .state strong { color: var(--ink); }
+  footer { color: var(--muted); font-size: .9rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+
+  :focus-visible { outline: 3px solid var(--c); outline-offset: 3px; }
+  .filters button:focus-visible { outline-color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Notícies en un minut</h1>
+    <p id="subtitle">Catalunya, Espanya i el món, explicats fàcil.</p>
+  </header>
+
+  <nav class="filters" id="filters" aria-label="Filtra per tema"></nav>
+  <main id="news" aria-live="polite"></main>
+
+  <footer>
+    Els textos són resums fets amb intel·ligència artificial a partir de diaris en línia. Pot haver-hi errors:
+    per a la notícia completa, obre sempre la font original.
+  </footer>
+</div>
+
+<script>
+"use strict";
+
+const $ = (s) => document.querySelector(s);
+
+function h(tag, props = {}, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(props)) {
+    if (k === "class") el.className = v;
+    else if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v);
+  }
+  for (const kid of kids.flat()) {
+    if (kid == null) continue;
+    el.append(kid.nodeType ? kid : document.createTextNode(kid));
+  }
+  return el;
+}
+
+const safeUrl = (u) => (/^https?:\/\//i.test(u) ? u : "#");
+
+// "Llegides": es guarda només en aquest navegador
+const READ_KEY = "noticies-llegides";
+function loadRead() {
+  try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || "[]")); }
+  catch { return new Set(); }
+}
+function saveRead(set) {
+  try { localStorage.setItem(READ_KEY, JSON.stringify([...set].slice(-300))); } catch {}
+}
+const readSet = loadRead();
+
+// Lectura en veu alta
+let speakingId = null;
+function stopSpeaking() {
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  speakingId = null;
+  document.querySelectorAll("[data-speak]").forEach((b) => {
+    b.setAttribute("aria-pressed", "false");
+    b.textContent = "Escolta";
+  });
+}
+function speak(story, btn) {
+  if (!("speechSynthesis" in window)) return;
+  const wasThis = speakingId === story.id;
+  stopSpeaking();
+  if (wasThis) return;
+  const u = new SpeechSynthesisUtterance(story.titol + ". " + story.text.replace(/\n+/g, " "));
+  u.lang = "ca-ES";
+  u.rate = 0.95;
+  u.onend = stopSpeaking;
+  speakingId = story.id;
+  btn.setAttribute("aria-pressed", "true");
+  btn.textContent = "Atura";
+  speechSynthesis.speak(u);
+}
+
+function card(story) {
+  const art = h("article", { class: `cat-${story.categoria}` + (readSet.has(story.id) ? " read" : ""), "data-cat": story.categoria });
+
+  const meta = h("p", { class: "meta" },
+    h("span", {}, story.ambit),
+    h("span", {}, `${story.minuts} min de lectura`)
+  );
+
+  const paragraphs = story.text.split(/\n\s*\n/).map((p) => h("p", {}, p.trim()));
+
+  const speakBtn = h("button", { type: "button", "data-speak": "", "aria-pressed": "false", onclick: () => speak(story, speakBtn) }, "Escolta");
+  const readBtn = h("button", { type: "button", "aria-pressed": String(readSet.has(story.id)) }, readSet.has(story.id) ? "Llegida" : "Marca com a llegida");
+  readBtn.addEventListener("click", () => {
+    const now = !readSet.has(story.id);
+    now ? readSet.add(story.id) : readSet.delete(story.id);
+    saveRead(readSet);
+    art.classList.toggle("read", now);
+    readBtn.setAttribute("aria-pressed", String(now));
+    readBtn.textContent = now ? "Llegida" : "Marca com a llegida";
+    updateCounter();
+  });
+
+  const sources = h("span", { class: "src" }, "Font: ",
+    story.fonts.flatMap((f, i) => [
+      i ? ", " : null,
+      h("a", { href: safeUrl(f.enllac), target: "_blank", rel: "noopener noreferrer" }, f.nom),
+    ])
+  );
+
+  art.append(
+    h("p", { class: "cat" }, story.categoria_nom),
+    h("h2", {}, story.titol),
+    meta,
+    h("div", { class: "text" }, paragraphs)
+  );
+
+  if (story.glossari && story.glossari.length) {
+    art.append(h("div", { class: "words" },
+      h("h3", {}, "Paraules noves"),
+      h("dl", { style: "margin:0" }, story.glossari.flatMap((g) => [
+        h("dt", {}, g.paraula + ": "), h("dd", {}, g.significat),
+      ]))
+    ));
+  }
+
+  if (story.pregunta) {
+    art.append(h("details", { class: "quiz" },
+      h("summary", {}, "Has entès la notícia?"),
+      h("p", {}, story.pregunta),
+      h("p", { class: "ans" }, "Resposta: " + story.resposta)
+    ));
+  }
+
+  art.append(h("div", { class: "actions" }, speakBtn, readBtn, sources));
+  return art;
+}
+
+function updateCounter() {
+  const el = $("#counter");
+  if (!el) return;
+  const total = document.querySelectorAll("article").length;
+  const done = document.querySelectorAll("article.read").length;
+  el.textContent = total ? `Has llegit ${done} de ${total} notícies.` : "";
+}
+
+function showState(html) {
+  const box = h("div", { class: "state" });
+  box.innerHTML = html; // només text fix escrit aquí, mai dades externes
+  $("#news").replaceChildren(box);
+}
+
+function render(data) {
+  const stories = (data && data.histories) || [];
+  if (!stories.length) {
+    showState("<strong>Encara no hi ha notícies.</strong> Executa l'automatització una vegada (pestanya Actions de GitHub → Notícies del dia → Run workflow) i torna a carregar la pàgina.");
+    return;
+  }
+
+  const d = new Date(data.data + "T12:00:00");
+  const dateText = d.toLocaleDateString("ca-ES", { weekday: "long", day: "numeric", month: "long" });
+  const ageDays = (Date.now() - d.getTime()) / 864e5;
+  $("#subtitle").textContent = ageDays > 2
+    ? `Aquestes notícies són del ${dateText}. Les noves encara no han arribat.`
+    : dateText.charAt(0).toUpperCase() + dateText.slice(1) + ".";
+
+  // filtres
+  const cats = [...new Map(stories.map((s) => [s.categoria, s.categoria_nom]))];
+  const bar = $("#filters");
+  const buttons = [["tot", "Tot"], ...cats].map(([id, name]) =>
+    h("button", { type: "button", "aria-pressed": String(id === "tot"), "data-f": id }, name)
+  );
+  bar.replaceChildren(...buttons);
+  bar.addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-f]");
+    if (!b) return;
+    buttons.forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+    document.querySelectorAll("article").forEach((a) => {
+      a.hidden = b.dataset.f !== "tot" && a.dataset.cat !== b.dataset.f;
+    });
+  });
+
+  const main = $("#news");
+  main.replaceChildren(h("p", { id: "counter", class: "src", style: "margin:0 0 1.5rem" }), ...stories.map(card));
+  updateCounter();
+}
+
+fetch("news.json?v=" + Date.now())
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(render)
+  .catch(() => showState("<strong>No he pogut carregar les notícies.</strong> Prova de tornar a carregar la pàgina d'aquí a una estona."));
+</script>
+</body>
+</html>
