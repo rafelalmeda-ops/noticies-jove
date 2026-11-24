@@ -1,0 +1,406 @@
+{
+ "data": "2026-11-24",
+ "actualitzat": "2026-11-24T20:10:24Z",
+ "histories": [
+  {
+   "id": "20261124-01",
+   "categoria": "politica",
+   "categoria_nom": "Política",
+   "ambit": "Espanya",
+   "titol": "El Govern amplia els permisos per mort d'un familiar",
+   "text": "El Consell de Ministres ha aprovat aquest dimarts ampliar el permís per la mort d'un familiar. Passa de dos a deu dies laborables si mor el cònjuge, la parella, un pare o un fill.\n\nPer a altres familiars, com els avis o els germans, el permís serà de tres dies. Si cal viatjar, s'hi afegiran dos dies més, fins a cinc.\n\nEl Govern també ha pujat el permís per naixement i cura d'un fill. Passa de 19 a 20 setmanes per a cada progenitor, amb sou complet.\n\nLes mesures entraran en vigor quan es publiquin al Butlletí Oficial de l'Estat. El Ministeri de Treball preveu que això passi aquest dimecres.",
+   "paraules": 110,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/economia/2026-11-24/claves-del-nuevo-permiso-de-duelo-por-fallecimiento-cuanto-crece-y-a-que-familiares-beneficia.html"
+    },
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/economia/mercat-laboral/mes-permisos-canvis-pels-autonoms-impost-als-bancs-aprovat-consell-ministres-afecta-teva-butxaca_1_5921187.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Consell de Ministres",
+     "significat": "Reunió setmanal on el Govern d'Espanya pren decisions."
+    },
+    {
+     "paraula": "Progenitor",
+     "significat": "El pare o la mare d'un fill."
+    }
+   ],
+   "pregunta": "Quants dies de permís hi haurà ara si mor la parella, un pare o un fill?",
+   "resposta": "Deu dies laborables."
+  },
+  {
+   "id": "20261124-02",
+   "categoria": "politica",
+   "categoria_nom": "Política",
+   "ambit": "Espanya",
+   "titol": "El Govern redueix el nombre d'alumnes per aula",
+   "text": "El Govern espanyol ha aprovat un decret que redueix el nombre màxim d'alumnes per aula. Afecta Infantil, Batxillerat i Formació Professional.\n\nEl canvi més gran és al primer cicle d'Infantil, de 0 a 3 anys. Per cada mestre hi haurà com a màxim quatre nadons d'un any, sis infants d'un a dos anys i vuit de dos a tres anys. Abans eren vuit, tretze i vint.\n\nA Batxillerat el límit serà de 30 alumnes. A l'FP serà de 25 als cicles mitjans i superiors.\n\nEl canvi s'aplicarà poc a poc. A Infantil començarà el curs que ve. A Batxillerat, el setembre del 2029.",
+   "paraules": 103,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/educacion/2026-11-24/el-gobierno-aprueba-una-bajada-historica-de-las-ratios-de-alumnos-en-educacion-infantil-bachillerato-y-fp.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Decret",
+     "significat": "Norma que aprova el Govern."
+    },
+    {
+     "paraula": "Ràtio",
+     "significat": "Nombre màxim d'alumnes per cada professor o aula."
+    }
+   ],
+   "pregunta": "Quants alumnes podrà haver-hi com a màxim a Batxillerat?",
+   "resposta": "Trenta."
+  },
+  {
+   "id": "20261124-03",
+   "categoria": "economia",
+   "categoria_nom": "Economia",
+   "ambit": "Catalunya",
+   "titol": "El Govern compra 460 pisos de lloguer social",
+   "text": "El Govern de la Generalitat ha aprovat aquest dimarts la compra de 460 habitatges. Estan repartits en 72 municipis de Catalunya.\n\nAquests pisos ja s'utilitzen per a polítiques socials i els gestiona l'Agència de l'Habitatge. El Govern hi destinarà 40,28 milions d'euros.\n\nL'Executiu els inclou al Pla 50.000, la mesura estrella en habitatge. El Govern va prometre arribar a 50.000 habitatges públics el 2030.\n\nLluís Moreno, de la Cambra de Contractistes d'Obres de Catalunya, opina que, si els pisos ja existeixen, no es millora el problema. Segons ell, hi haurà menys pisos disponibles per a altres persones. El Govern defensa que la compra reforça el parc públic d'habitatge.",
+   "paraules": 108,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/economia/immobiliari/govern-compra-460-pisos-ja-son-lloguer-social-inclou-pla-50-000_25_5921546.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Lloguer social",
+     "significat": "Lloguer amb preu rebaixat per a persones que ho necessiten."
+    },
+    {
+     "paraula": "Municipi",
+     "significat": "Poble o ciutat amb ajuntament propi."
+    }
+   ],
+   "pregunta": "Quants pisos compra el Govern?",
+   "resposta": "460."
+  },
+  {
+   "id": "20261124-04",
+   "categoria": "economia",
+   "categoria_nom": "Economia",
+   "ambit": "Espanya",
+   "titol": "L'impost als bancs es prorroga un any més",
+   "text": "El Govern espanyol ha aprovat prorrogar un any més l'impost als bancs. És un tribut sobre els ingressos que els bancs obtenen d'interessos i comissions. Seguirà vigent durant l'exercici del 2027.\n\nEl Govern espera recaptar-hi uns 1.400 milions d'euros. La novetat és que aquests diners s'hauran de destinar a polítiques d'habitatge.\n\nEls rebran les comunitats autònomes. El repartiment entre elles es decidirà a la conferència sectorial d'Habitatge, on es reuneixen el ministeri i els consellers de cada comunitat.\n\nEl Govern explica que els diners poden servir per construir pisos protegits, rehabilitar edificis i ajudar els llogaters. Aquest impost es va crear el 2022 i ja s'havia allargat fins al 2026.",
+   "paraules": 110,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/economia/2026-11-24/el-gobierno-remodela-el-impuesto-a-la-banca-para-obligar-a-repartir-los-1400-millones-de-recaudacion-en-la-conferencia-sectorial-de-vivienda.html"
+    },
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/economia/mercat-laboral/mes-permisos-canvis-pels-autonoms-impost-als-bancs-aprovat-consell-ministres-afecta-teva-butxaca_1_5921187.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Prorrogar",
+     "significat": "Allargar el temps que dura una cosa."
+    },
+    {
+     "paraula": "Tribut",
+     "significat": "Impost que es paga a l'administració."
+    }
+   ],
+   "pregunta": "A què s'hauran de destinar els diners de l'impost?",
+   "resposta": "A polítiques d'habitatge."
+  },
+  {
+   "id": "20261124-05",
+   "categoria": "medi_ambient",
+   "categoria_nom": "Medi ambient",
+   "ambit": "Món",
+   "titol": "La cimera del clima acaba sense cap acord",
+   "text": "La cimera del clima de les Nacions Unides, la COP31, ha acabat sense acord. Es feia a Antalya, a Turquia. Va començar el 9 de novembre i havia d'acabar el divendres 20. Es va allargar dos dies.\n\nAquest diumenge no es va aprovar cap declaració final. El punt que va bloquejar l'acord era mencionar que cal substituir els combustibles fòssils, com el petroli, el carbó i el gas.\n\nSegons El País, la majoria de països hi estaven d'acord. Però s'hi van oposar Aràbia Saudita, altres països productors de petroli, Rússia i els Estats Units.\n\nAquestes cimeres decideixen per consens: n'hi ha prou amb un vot en contra per frenar un text.",
+   "paraules": 111,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-23/las-claves-del-fracaso-de-la-cumbre-del-clima-por-que-es-tan-grave-lo-ocurrido-en-antalya.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Cimera",
+     "significat": "Reunió de representants de molts països."
+    },
+    {
+     "paraula": "Consens",
+     "significat": "Acord on tothom està d'acord."
+    }
+   ],
+   "pregunta": "On es va fer la COP31?",
+   "resposta": "A Antalya, a Turquia."
+  },
+  {
+   "id": "20261124-06",
+   "categoria": "medi_ambient",
+   "categoria_nom": "Medi ambient",
+   "ambit": "Espanya",
+   "titol": "Els descomptes del transport públic continuaran el 2027",
+   "text": "El Govern espanyol ha aprovat que els descomptes al transport públic continuïn durant tot el 2027.\n\nL'abonament únic seguirà costant 60 euros al mes, i 30 euros per als joves. A Rodalies i Cercanías hi haurà un abonament mensual de 20 euros. Serà de 10 euros per als joves i gratuït per als menors de 14 anys.\n\nA la mitjana distància es manté un 40 % de descompte. A les línies d'Avant, un 50 %.\n\nEl Govern diu que vol fomentar l'ús del transport públic. Hisenda pagarà tota la gratuïtat infantil. Les comunitats autònomes i els ajuntaments pagaran una part de la resta.",
+   "paraules": 103,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/govern-espanyol-prorroga-bonificacions-transport-public-recta-final-campanya_1_5921250.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Abonament",
+     "significat": "Targeta o bitllet per viatjar durant un temps."
+    },
+    {
+     "paraula": "Bonificació",
+     "significat": "Descompte en un preu."
+    }
+   ],
+   "pregunta": "Quant costarà el 2027 l'abonament mensual de Rodalies per a joves?",
+   "resposta": "10 euros."
+  },
+  {
+   "id": "20261124-07",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
+   "ambit": "Món",
+   "titol": "Senegal recupera el títol de la Copa d'Àfrica",
+   "text": "El Tribunal d'Arbitratge Esportiu (TAS) ha donat la raó a Senegal. La seva selecció torna a ser campiona de la Copa d'Àfrica d'aquest any.\n\nLa final es va jugar el 18 de gener a Rabat. Senegal va guanyar 0-1 a la pròrroga, amb un gol de Pape Gueye. Però la Confederació Africana de Futbol va declarar campió el Marroc per 3-0, perquè la majoria de jugadors senegalesos havien abandonat el camp durant el partit.\n\nSenegal va presentar un recurs al TAS. El tribunal ha decidit que el que va passar al camp es manté.\n\nLa resolució confirma el resultat de la final.",
+   "paraules": 102,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/deportes/futbol/2026-11-24/el-tribunal-de-arbitraje-deportivo-da-la-razon-a-senegal-y-confirma-su-triunfo-en-la-ultima-copa-africa.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Recurs",
+     "significat": "Petició per revisar una decisió."
+    },
+    {
+     "paraula": "Pròrroga",
+     "significat": "Temps extra quan hi ha empat."
+    }
+   ],
+   "pregunta": "Quin tribunal ha donat la raó a Senegal?",
+   "resposta": "El Tribunal d'Arbitratge Esportiu (TAS)."
+  },
+  {
+   "id": "20261124-08",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
+   "ambit": "Món",
+   "titol": "La Copa Amèrica del 2028 es jugarà als Estats Units",
+   "text": "La Conmebol ha anunciat que la Copa Amèrica del 2028 es jugarà als Estats Units. Serà la segona edició seguida lluny de Sud-amèrica.\n\nEl torneig se celebrarà entre el 9 de juny i el 9 de juliol del 2028. Hi participaran 16 selecciones: les deu de la Conmebol i sis de la Concacaf.\n\nAquestes sis seleccions es classificaran a través de la Copa Or del 2027. Aquesta es jugarà del 17 de juny a l'11 de juliol.\n\nLes ciutats i els estadis es donaran a conèixer més endavant. Argentina defensarà el títol sense Lionel Messi, que es va retirar el mes passat.",
+   "paraules": 102,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/us/2026-11-24/la-copa-america-vuelve-a-estados-unidos-por-tercera-vez-en-12-anos.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Selecció",
+     "significat": "Equip que representa un país."
+    },
+    {
+     "paraula": "Conmebol",
+     "significat": "Confederació de futbol de Sud-amèrica."
+    }
+   ],
+   "pregunta": "Quantes seleccions jugaran la Copa Amèrica del 2028?",
+   "resposta": "Setze."
+  },
+  {
+   "id": "20261124-09",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
+   "ambit": "Catalunya",
+   "titol": "Detinguts 28 ciberestafadors a Barcelona i Girona",
+   "text": "La Guàrdia Civil de Cantàbria ha detingut 28 persones a Barcelona i Girona. N'investiga quatre més. Se les acusa d'estafes per internet a víctimes de Cantàbria que superen els 112.000 euros.\n\nVint detencions són per estafes amb missatges falsos de banc. Els estafadors envien un SMS amb un enllaç i després truquen per demanar claus.\n\nTres detencions són per missatges de WhatsApp en què algú es fa passar per un fill o un familiar i demana diners amb urgència.\n\nHi ha també casos d'un lloguer fals i d'una plataforma falsa de criptomonedes. L'operació s'anomena Bargero 2026. La Guàrdia Civil l'ha donat a conèixer aquest dimarts en un comunicat.",
+   "paraules": 108,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/sucesos/20261124/11692124/detienen-28-personas-barcelona-girona-ciberestafas-mas-112-000-euros.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Ciberestafa",
+     "significat": "Engany per internet o telèfon per aconseguir diners."
+    },
+    {
+     "paraula": "Criptomoneda",
+     "significat": "Moneda digital que només existeix a internet."
+    }
+   ],
+   "pregunta": "Quantes persones han estat detingudes?",
+   "resposta": "Vint-i-vuit."
+  },
+  {
+   "id": "20261124-10",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
+   "ambit": "Catalunya",
+   "titol": "Collserola no reobrirà fins al 2027 per la pesta porcina",
+   "text": "La reobertura de Collserola per la pesta porcina africana haurà d'esperar. El conseller d'Agricultura, Òscar Ordeig, ho ha explicat aquest dimarts.\n\nEl Govern crearà un grup de treball per coordinar la desescalada, és a dir, l'obertura gradual de les restriccions. Vol adoptar les primeres mesures abans d'acabar l'any.\n\nPrimer es revisarà l'accés a la natura a les zones de risc baix i a les de risc alt fora del perímetre tancat.\n\nUna segona proposta, a principis del 2027, permetria un accés més flexible a la zona de risc alt, on hi ha Collserola. No s'obrirà tot un municipi: es podran reobrir camins concrets.",
+   "paraules": 103,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/barcelona/govern-descarta-reobrir-collserola-fins-l-any-ve-ppa_25_5921614.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Desescalada",
+     "significat": "Retirada gradual de les restriccions."
+    },
+    {
+     "paraula": "Perímetre",
+     "significat": "Línia que envolta una zona."
+    }
+   ],
+   "pregunta": "Quan s'acabarà de decidir un accés més flexible a Collserola?",
+   "resposta": "A principis del 2027."
+  },
+  {
+   "id": "20261124-11",
+   "categoria": "ciencia",
+   "categoria_nom": "Ciència i tecnologia",
+   "ambit": "Món",
+   "titol": "La Xina envia el primer astronauta estranger a Tiangong",
+   "text": "La Xina enviarà aquest dimecres el primer astronauta estranger a la seva estació espacial, la Tiangong. És el pilot pakistanès Muhammad Zeeshan Ali, de 40 anys.\n\nViatjarà a la nau Shenzhou-24 amb el comandant Tang Hongbo i l'enginyer Wu Yi. La sortida serà des de la base de Jiuquan, al desert del Gobi.\n\nAli va aprendre xinès en un institut de Pakistan. El 2025 els dos països van signar un acord per fer possible el viatge.\n\nTiangong vol dir «Palau Celestial». Fins ara, 29 astronautes xinesos han volat amb naus del seu país. El portaveu del programa espacial, Zhang Jingbo, espera explorar l'univers amb més països.",
+   "paraules": 106,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Estació espacial",
+     "significat": "Laboratori que orbita la Terra on viuen astronautes."
+    },
+    {
+     "paraula": "Enginyer de vol",
+     "significat": "Persona que cuida els sistemes de la nau."
+    }
+   ],
+   "pregunta": "Com es diu l'astronauta pakistanès?",
+   "resposta": "Muhammad Zeeshan Ali."
+  },
+  {
+   "id": "20261124-12",
+   "categoria": "ciencia",
+   "categoria_nom": "Ciència i tecnologia",
+   "ambit": "Món",
+   "titol": "Nadons de l'antiga Grècia menjaven sòlids als tres mesos",
+   "text": "Fa 2.500 anys, els nadons de l'antiga Grècia ja menjaven aliments sòlids amb només tres mesos. Ho diu un estudi de la Universitat de Geòrgia.\n\nEls científics van analitzar restes d'infants d'Hímera, una colònia grega del nord de Sicília. Van estudiar substàncies químiques dels ossos.\n\nEls bebès tastaven sòlids als tres mesos, però seguien prenent llet materna fins als 3,8 anys aproximadament. Això és molt més temps del que explicaven els autors antics.\n\nL'equip ha estat dirigit per l'antropòloga Laurie Reitsema. L'estudi s'ha publicat a la revista European Journal of Archaeology. Hímera va existir entre els segles VII i V abans de Crist i s'hi han trobat més de 13.000 enterraments.",
+   "paraules": 111,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/cultura/20261124/11692246/bebes-antigua-grecia-himera-empezaban-comer-solidos-tres-meses-seguian-siendo-amamantados-cuatro-anos.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Colònia",
+     "significat": "Ciutat fundada lluny del lloc d'origen del seu poble."
+    },
+    {
+     "paraula": "Antropòloga",
+     "significat": "Científica que estudia les persones."
+    }
+   ],
+   "pregunta": "Fins a quina edat prenien llet materna?",
+   "resposta": "Fins a uns 3,8 anys."
+  },
+  {
+   "id": "20261124-13",
+   "categoria": "cultura",
+   "categoria_nom": "Cultura",
+   "ambit": "Catalunya",
+   "titol": "La música en directe lidera la cultura catalana",
+   "text": "La música en directe va ser el principal motor cultural de Catalunya el 2025. Ho diu l'Anuari SGAE 2026, presentat a Barcelona.\n\nAmb els grans festivals, Catalunya va ser la comunitat amb més ingressos per entrades de tot l'Estat. La taquilla va créixer un 15,2 % i el públic un 10,6 % respecte a l'any anterior.\n\nSense comptar els festivals, es van programar un 12,7 % més de concerts.\n\nLes arts escèniques també van millorar. El teatre concentra el 92,5 % de les funcions. El cinema, en canvi, va tenir un 9,5 % menys d'assistents. Respecte al 2019, abans de la pandèmia, els concerts superen els nivells d'aleshores.",
+   "paraules": 108,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/cultura/20261124/11692435/musica-directo-analisis-cultural-catalunya-eventos-artes.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Taquilla",
+     "significat": "Diners que s'ingressen per la venda d'entrades."
+    },
+    {
+     "paraula": "Arts escèniques",
+     "significat": "Teatre, dansa i altres espectacles en directe."
+    }
+   ],
+   "pregunta": "Quin percentatge va créixer el públic de música en directe?",
+   "resposta": "Un 10,6 %."
+  },
+  {
+   "id": "20261124-14",
+   "categoria": "cultura",
+   "categoria_nom": "Cultura",
+   "ambit": "Espanya",
+   "titol": "Un mosaic romà oblidat després d'un concurs de televisió",
+   "text": "Entre 1967 i 1982, TVE va emetre un concurs de patrimoni anomenat Misión rescate. Grups d'escolars, guiats per un mestre, defensaven un bé històric del seu entorn.\n\nEls alumnes tenien entre 9 i 13 anys. Si assolien l'objectiu, rebien la «missió complerta», i hi havia trofeus d'or, plata i mencions d'honor.\n\nEl butlletí del Museu Arqueològic Nacional explica dos casos d'Àvila. Un és el verro de La Romarina, que va acabar davant la Diputació.\n\nL'altre és el mosaic romà de Mancera de Arriba. Després de la fama i els premis, va quedar abandonat enmig d'un camp, on encara és. Al final del treball, els alumnes redactaven una memòria amb fotografies i dibuixos.",
+   "paraules": 112,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/cultura/2026-11-24/la-triste-historia-de-un-mosaico-romano-abandonado-en-mitad-del-campo.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Patrimoni",
+     "significat": "Béns històrics i artístics d'un lloc."
+    },
+    {
+     "paraula": "Mosaic",
+     "significat": "Imatge feta amb moltes peces petites."
+    }
+   ],
+   "pregunta": "Quina edat tenien els alumnes del concurs?",
+   "resposta": "Entre 9 i 13 anys."
+  }
+ ]
+}
