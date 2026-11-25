@@ -1,139 +1,17 @@
 {
- "data": "2026-11-24",
- "actualitzat": "2026-11-24T21:30:00Z",
+ "data": "2026-11-25",
+ "actualitzat": "2026-11-25T08:00:00Z",
  "histories": [
   {
-   "id": "20261124-01",
+   "id": "20261125-01",
    "categoria": "politica",
    "categoria_nom": "Política",
    "ambit": "Espanya",
-   "titol": "Què cal per votar el diumenge?",
-   "text": "Diumenge hi ha eleccions generals a Espanya. Aquests dies han circulat missatges a les xarxes sobre la targeta censal, que s'envia per correu a cada persona del cens.\n\nLa targeta censal només serveix per informar. Hi ha les dades personals i la mesa on toca votar. No serveix per identificar-se.\n\nPer votar en persona cal mostrar el DNI, el passaport o el carnet de conduir. Per votar per correu també cal identificar-se. Segons la verificadora Verificat, la targeta d'una persona morta no permet votar en nom seu.\n\nFer-ho seria un delicte electoral. La llei el castiga amb presó i multa. Una persona que intentés suplantar-ne una altra seria descoberta a la mesa, perquè li demanarien que s'identifiqués.",
-   "paraules": 117,
+   "titol": "El Govern amplia els permisos per naixement i defunció",
+   "text": "El Consell de Ministres ha aprovat aquest dimarts noves mesures laborals. Ho ha fet cinc dies abans de les eleccions generals del 29 de novembre.\n\nCada progenitor passarà de 19 a 20 setmanes de permís pel naixement d'un fill, pagades al 100%. Les famílies amb un sol progenitor tindran 34 setmanes. Per la mort d'un familiar molt proper, el permís serà de 10 dies laborables.\n\nEl Govern també ha aprovat canvis per als autònoms. Per exemple, podran deduir més despeses a l'IRPF. A més, ha allargat fins al 2027 l'impost a la banca.\n\nLes mesures entraran en vigor quan es publiquin al BOE. Després de les eleccions, la Diputació Permanent les haurà de validar.",
+   "paraules": 114,
    "minuts": 1,
    "fonts": [
-    {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/politica/20261124/11692514/tarjeta-censal-persona-fallecida-permite-votar-nombre-cometer-fraude.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "cens electoral",
-     "significat": "La llista de persones que tenen dret a votar."
-    },
-    {
-     "paraula": "delicte electoral",
-     "significat": "Una falta greu que es comet durant unes eleccions i que la llei castiga."
-    }
-   ],
-   "pregunta": "Quin document cal mostrar per votar en persona?",
-   "resposta": "El DNI, el passaport o el carnet de conduir.",
-   "quiz": [
-    {
-     "pregunta": "Per a què serveix la targeta censal?",
-     "opcions": [
-      "Per informar de les dades i la mesa",
-      "Per votar sense identificar-se",
-      "Per votar per correu"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quan són les eleccions generals?",
-     "opcions": [
-      "Dilluns",
-      "Diumenge",
-      "Dissabte"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Per què la targeta d'una persona morta no permet votar?",
-     "opcions": [
-      "Perquè caduca en una setmana",
-      "Perquè cal portar-la a correus",
-      "Perquè només informa i cal identificar-se"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261124-02",
-   "categoria": "politica",
-   "categoria_nom": "Política",
-   "ambit": "Espanya",
-   "titol": "El Govern prorroga els descomptes del transport públic",
-   "text": "El Govern espanyol ha prorrogat els descomptes del transport públic durant el 2027. Ho ha aprovat l'últim Consell de Ministres abans de les eleccions. La mesura costarà 1.213 milions d'euros.\n\nEls abonaments mensuals i de deu viatges tindran un descompte del 20 %. Les comunitats autònomes poden ampliar-lo fins al 40 %. Els joves fins a 29 anys tindran un 50 % de rebaixa. Els menors de 14 anys continuaran viatjant gratis.\n\nTambé hi haurà un bitllet únic de Rodalies i Cercanías de 20 euros al mes. A Balears i Canàries el transport serà gratuït.\n\nEl diari El País explica que Economia volia esperar després de les eleccions. Els socis del PSOE van demanar aprovar-ho abans.",
-   "paraules": 116,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-24/el-gobierno-prorroga-sobre-la-bocina-las-subvenciones-al-transporte-publico-por-la-presion-de-sus-socios.html"
-    },
-    {
-     "nom": "Ara",
-     "enllac": "https://www.ara.cat/societat/govern-espanyol-prorroga-bonificacions-transport-public-recta-final-campanya_1_5921250.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "prorrogar",
-     "significat": "Allargar el temps en què una cosa continua valent."
-    },
-    {
-     "paraula": "abonament",
-     "significat": "Targeta que permet fer molts viatges pagant menys."
-    }
-   ],
-   "pregunta": "Quin descompte general tindran els abonaments?",
-   "resposta": "Un 20 %.",
-   "quiz": [
-    {
-     "pregunta": "Fins quan es prorroguen els descomptes?",
-     "opcions": [
-      "Fins al 2027",
-      "Fins al juliol",
-      "Fins al 2030"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quant costarà la mesura?",
-     "opcions": [
-      "300 milions d'euros",
-      "1.213 milions d'euros",
-      "12 milions d'euros"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Qui viatjarà gratis?",
-     "opcions": [
-      "Els jubilats",
-      "Els joves fins a 29 anys",
-      "Els menors de 14 anys"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261124-03",
-   "categoria": "economia",
-   "categoria_nom": "Economia",
-   "ambit": "Espanya",
-   "titol": "El permís per néixer un fill passa a 20 setmanes",
-   "text": "El Govern espanyol ha ampliat el permís per tenir cura d'un nadó. Fins ara eren 19 setmanes pagades. Ara seran 20 per a cada progenitor.\n\nDisset setmanes s'han de gaudir durant el primer any del nadó. Les altres tres es poden agafar fins que el fill faci vuit anys. Abans eren només dues.\n\nLes famílies amb un sol progenitor tindran 34 setmanes, en lloc de 32.\n\nLa mesura és un decret llei aprovat aquest dimarts. El Parlament l'ha de validar. Només beneficiarà els fills que neixin quan la norma entri en vigor, un cop publicada al Butlletí Oficial de l'Estat.",
-   "paraules": 100,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html"
-    },
     {
      "nom": "Ara",
      "enllac": "https://www.ara.cat/economia/mercat-laboral/mes-permisos-canvis-pels-autonoms-impost-als-bancs-aprovat-consell-ministres-afecta-teva-butxaca_1_5921187.html"
@@ -141,400 +19,286 @@
    ],
    "glossari": [
     {
-     "paraula": "progenitor",
-     "significat": "Pare o mare d'un fill."
+     "paraula": "autònom",
+     "significat": "Persona que treballa pel seu compte, sense que cap empresa la contracti."
     },
     {
-     "paraula": "decret llei",
-     "significat": "Una norma que el Govern aprova ràpid i que després ha de validar el Parlament."
+     "paraula": "BOE",
+     "significat": "Diari oficial on es publiquen les lleis a Espanya."
     }
    ],
-   "pregunta": "Quantes setmanes tindran les famílies amb un sol progenitor?",
-   "resposta": "34 setmanes.",
+   "pregunta": "Quantes setmanes de permís tindrà cada progenitor pel naixement d'un fill?",
+   "resposta": "20 setmanes.",
    "quiz": [
     {
-     "pregunta": "Quantes setmanes de permís hi haurà ara?",
+     "pregunta": "Què ha aprovat el Consell de Ministres?",
      "opcions": [
-      "16",
-      "20",
-      "25"
+      "Menys dies de vacances",
+      "Noves mesures laborals i fiscals",
+      "Un canvi de dia de les eleccions"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Fins a quina edat es poden agafar tres setmanes?",
+     "pregunta": "Quantes setmanes tindran les famílies amb un sol progenitor?",
      "opcions": [
-      "Fins als vuit anys",
-      "Fins als dos anys",
-      "Fins als dotze anys"
+      "34",
+      "19",
+      "10"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "Quan afectarà la mesura els fills?",
+     "pregunta": "Quan entraran en vigor les mesures?",
      "opcions": [
-      "A tots els nascuts aquest any",
-      "Només als nascuts abans",
-      "Als nascuts quan la norma entri en vigor"
+      "Quan es publiquin al BOE",
+      "Després de Nadal",
+      "Quan acabi el 2027"
      ],
-     "correcta": 2
+     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-04",
+   "id": "20261125-02",
+   "categoria": "politica",
+   "categoria_nom": "Política",
+   "ambit": "Espanya",
+   "titol": "El transport públic seguirà més barat durant el 2027",
+   "text": "El Govern espanyol mantindrà el 2027 els descomptes del transport públic. El Consell de Ministres ho va aprovar dimarts, en l'última reunió abans de les eleccions.\n\nA Rodalies i Cercanías, l'abonament mensual costa 20 euros. Els joves paguen 10 euros i els menors de 14 anys viatgen gratis. L'abonament únic continua a 60 euros al mes, o a 30 per als joves. També es mantenen descomptes als trens de mitjana distància.\n\nL'Estat diu que li costarà 1.213 milions d'euros. Es tracta de la xifra que ha donat el Govern. Les comunitats autònomes i els ajuntaments també en pagaran una part.\n\nAra bé, l'IPC pot fer pujar les tarifes. Per això, algunes persones podrien pagar més malgrat els descomptes.",
+   "paraules": 118,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/govern-espanyol-prorroga-bonificacions-transport-public-recta-final-campanya_1_5921250.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "abonament",
+     "significat": "Bitllet que permet viatjar moltes vegades pagant un preu fix."
+    },
+    {
+     "paraula": "IPC",
+     "significat": "Índex que mesura quant pugen els preus."
+    }
+   ],
+   "pregunta": "Quant costa l'abonament mensual de Rodalies i Cercanías?",
+   "resposta": "20 euros.",
+   "quiz": [
+    {
+     "pregunta": "Què ha decidit el Govern espanyol?",
+     "opcions": [
+      "Pujar el preu del tren",
+      "Mantenir els descomptes el 2027",
+      "Fer gratis tot el transport"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quin cost diu l'Estat que tindrà?",
+     "opcions": [
+      "470 milions d'euros",
+      "240 milions d'euros",
+      "1.213 milions d'euros"
+     ],
+     "correcta": 2
+    },
+    {
+     "pregunta": "Per què algú podria pagar més?",
+     "opcions": [
+      "Perquè l'IPC pot fer pujar les tarifes",
+      "Perquè s'acaben els abonaments",
+      "Perquè hi ha menys trens"
+     ],
+     "correcta": 0
+    }
+   ]
+  },
+  {
+   "id": "20261125-03",
    "categoria": "economia",
    "categoria_nom": "Economia",
-   "ambit": "Espanya",
-   "titol": "El 38 % dels cotxes nous podrien conduir-se sols",
-   "text": "Gairebé quatre de cada deu cotxes nous que es venen a Espanya podrien portar la tecnologia per conduir quasi sols. Concretament, el 37,9 % dels turismes. Entre els vehicles industrials i els autobusos, és el 25 %.\n\nHo diu l'Anfac, l'associació de fabricants d'automòbils. Ho ha explicat en un congrés a Saragossa.\n\nL'Anfac assegura que la tecnologia va per davant de les normes. Les lleis actuals en limiten l'ús. Per això demana que s'avanci en la regulació.\n\nA la Xina i als Estats Units ja s'han fet més de 20 milions de trajectes amb vehicles autònoms. Europa va més lenta.\n\nDes de fa un any, a Espanya han crescut els projectes de prova.",
-   "paraules": 113,
+   "ambit": "Catalunya",
+   "titol": "La Generalitat compra 460 pisos de lloguer social",
+   "text": "El Govern de la Generalitat ha acordat comprar 460 habitatges en 72 municipis. Són pisos que ja s'utilitzaven com a lloguer social. Els gestiona l'Agència de l'Habitatge.\n\nLa compra costa 40,28 milions d'euros, uns 87.600 euros per pis. El Govern diu que així reforça el parc públic d'habitatge. També explica que aquests pisos compten dins del Pla 50.000.\n\nEl Pla 50.000 és el compromís del president Salvador Illa de tenir 50.000 habitatges públics el 2030.\n\nLluís Moreno, de la Cambra de Contractistes d'Obres de Catalunya, ho veu diferent. Diu que, si els pisos ja existien, no es millora el problema de l'habitatge.",
+   "paraules": 102,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/economia/20261124/11692365/38-turismos-espana-autonomos.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/economia/immobiliari/govern-compra-460-pisos-ja-son-lloguer-social-inclou-pla-50-000_25_5921546.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "autònom",
-     "significat": "Que funciona sol, sense que el condueixi una persona."
+     "paraula": "lloguer social",
+     "significat": "Lloguer a preu baix per a famílies amb pocs ingressos."
     },
     {
-     "paraula": "regulació",
-     "significat": "Les normes que diuen què es pot fer i què no."
+     "paraula": "parc públic",
+     "significat": "Conjunt d'habitatges que són de l'administració."
     }
    ],
-   "pregunta": "Quin percentatge de turismes podrien tenir conducció quasi autònoma?",
-   "resposta": "El 37,9 %.",
+   "pregunta": "Quants pisos vol comprar el Govern?",
+   "resposta": "460 pisos.",
    "quiz": [
     {
-     "pregunta": "Qui ha donat aquestes dades?",
+     "pregunta": "Què ha acordat fer el Govern?",
      "opcions": [
-      "La DGT",
-      "L'Anfac",
-      "La Unió Europea"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "On s'han fet més de 20 milions de trajectes autònoms?",
-     "opcions": [
-      "Només a Europa",
-      "A Saragossa",
-      "A la Xina i als Estats Units"
+      "Vendre 460 pisos",
+      "Construir 460 pisos nous",
+      "Comprar 460 pisos"
      ],
      "correcta": 2
     },
     {
-     "pregunta": "Què limita ara l'ús d'aquesta tecnologia?",
+     "pregunta": "En quants municipis són els pisos?",
      "opcions": [
-      "Les normes actuals",
-      "El preu del combustible",
-      "La falta de carreteres"
+      "50",
+      "72",
+      "460"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Què diu Lluís Moreno?",
+     "opcions": [
+      "Que el problema no millora si els pisos ja existien",
+      "Que els pisos són massa barats",
+      "Que cal fer més escoles"
      ],
      "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-05",
-   "categoria": "medi_ambient",
-   "categoria_nom": "Medi ambient",
+   "id": "20261125-04",
+   "categoria": "economia",
+   "categoria_nom": "Economia",
    "ambit": "Món",
-   "titol": "La cimera del clima acaba sense acord",
-   "text": "La cimera del clima de l'ONU, la COP31, ha acabat a Antalya, a Turquia, sense acord final. Va començar el 9 de novembre i havia d'acabar el divendres 20. Es va allargar dos dies, però no hi va haver cap text acordat.\n\nEl punt més difícil va ser incloure que cal deixar els combustibles fòssils: petroli, carbó i gas. La majoria de països hi estaven d'acord. L'Aràbia Saudita, altres països petroliers i Rússia s'hi van oposar, amb el suport dels Estats Units.\n\nA les cimeres de l'ONU, les decisions es prenen per consens. Amb un sol vot en contra, no s'aprova.\n\nMolts temes sobre finançament es deixen per a altres reunions.",
-   "paraules": 111,
+   "titol": "Huawei, declarada culpable de robar secrets comercials",
+   "text": "Un jurat de Brooklyn, a Nova York, ha declarat culpable l'empresa xinesa Huawei. El judici va durar 11 setmanes. Després, el jurat va deliberar durant gairebé una setmana.\n\nHuawei ha estat declarada culpable de 10 dels 12 càrrecs. Entre ells hi ha el robatori de secrets comercials, el frau bancari i la conspiració per saltar-se les sancions contra l'Iran.\n\nEl cas va començar el 2018. Aleshores el Canadà va detenir una directiva de Huawei, Meng Wanzhou, a petició dels Estats Units. El 2019, els Estats Units van prohibir a Huawei vendre els seus productes al país.\n\nHuawei sempre ha negat les acusacions.",
+   "paraules": 102,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "El País",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-23/las-claves-del-fracaso-de-la-cumbre-del-clima-por-que-es-tan-grave-lo-ocurrido-en-antalya.html"
-    },
-    {
-     "nom": "El País (anàlisi)",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-24/fracaso-en-la-cumbre-del-clima-y-ahora-que.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/economia/tecnologia/tribunal-estatunidenc-declara-culpable-huawei-robar-secrets-comercials_1_5921956.html"
     }
    ],
    "glossari": [
+    {
+     "paraula": "jurat",
+     "significat": "Grup de ciutadans que decideix si una persona o una empresa és culpable."
+    },
+    {
+     "paraula": "sanció",
+     "significat": "Càstig o restricció que un país imposa a un altre."
+    }
+   ],
+   "pregunta": "De quants càrrecs va ser declarada culpable Huawei?",
+   "resposta": "De 10 dels 12 càrrecs.",
+   "quiz": [
+    {
+     "pregunta": "Què ha decidit el jurat?",
+     "opcions": [
+      "Que Huawei és culpable",
+      "Que Huawei és innocent",
+      "Que Huawei ha de tancar"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Quant va durar el judici?",
+     "opcions": [
+      "3 setmanes",
+      "11 setmanes",
+      "2 anys"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quina mesura van prendre els Estats Units el 2019?",
+     "opcions": [
+      "Van comprar Huawei",
+      "Van deixar vendre més mòbils",
+      "Van prohibir vendre els productes de Huawei"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "id": "20261125-05",
+   "categoria": "medi_ambient",
+   "categoria_nom": "Medi ambient",
+   "ambit": "Món",
+   "titol": "La cimera del clima COP31 acaba sense acord",
+   "text": "La cimera del clima de l'ONU, la COP31, ha acabat sense acord. Es feia a Antalya, a Turquia.\n\nUns 130 països van vetar el text final. Entre ells hi havia tota la Unió Europea, el grup africà i les illes del Pacífic.\n\nHi havia dos motius principals. El text no parlava d'eliminar poc a poc els combustibles fòssils, com el petroli. A més, els diners per ajudar els països pobres a adaptar-se al canvi climàtic eren pocs i sense xifres concretes.\n\nAlguns països productors de combustibles fòssils i Rússia van recolzar el text. Diverses ONG lamenten el fracàs i demanen tornar a negociar.",
+   "paraules": 103,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/internacional/fracas-cop31-deixa-pregunta-urgent-sera-mai-possible-acordar-dels-combustibles-fossils_1_5920124.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "vetar",
+     "significat": "Rebutjar un text perquè no s'aprovi."
+    },
+    {
+     "paraula": "ONG",
+     "significat": "Organització que no depèn del govern i defensa una causa."
+    },
     {
      "paraula": "combustibles fòssils",
-     "significat": "Petroli, carbó i gas, que en cremar-se escalfen el planeta."
-    },
-    {
-     "paraula": "consens",
-     "significat": "Que tots els països estiguin d'acord."
+     "significat": "Energies com el petroli, que contaminen quan es cremen."
     }
    ],
-   "pregunta": "Per què no es va aprovar cap text?",
-   "resposta": "Perquè alguns països es van oposar i cal consens.",
+   "pregunta": "On es feia la COP31?",
+   "resposta": "A Antalya, a Turquia.",
    "quiz": [
     {
-     "pregunta": "On s'ha fet la COP31?",
+     "pregunta": "Com ha acabat la COP31?",
      "opcions": [
-      "A Antalya, a Turquia",
-      "A Madrid",
-      "A Austràlia"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quin tema va bloquejar l'acord?",
-     "opcions": [
-      "Els preus dels bitllets",
-      "Deixar els combustibles fòssils",
-      "Plantar més arbres"
+      "Amb un acord històric",
+      "Sense acord",
+      "Amb una nova cimera"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Per què un sol país pot bloquejar una decisió?",
+     "pregunta": "Quants països van vetar el text final?",
      "opcions": [
-      "Perquè té més diners",
-      "Perquè fa la cimera",
-      "Perquè les decisions es prenen per consens"
+      "Uns 13",
+      "Uns 130",
+      "Uns 1.300"
      ],
-     "correcta": 2
+     "correcta": 1
+    },
+    {
+     "pregunta": "Per què molts països el van rebutjar?",
+     "opcions": [
+      "Perquè no parlava d'eliminar els combustibles fòssils",
+      "Perquè era massa llarg",
+      "Perquè no es feia a Europa"
+     ],
+     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-06",
+   "id": "20261125-06",
    "categoria": "medi_ambient",
    "categoria_nom": "Medi ambient",
-   "ambit": "Espanya",
-   "titol": "WWF demana investigar la mort d'un ós als Picos",
-   "text": "L'organització ecologista WWF reclama una investigació per la mort d'un ós bru als Picos de Europa. L'animal va morir d'un tret dissabte, durant una batuda per controlar els senglars. Va passar a Posada de Valdeón, a la província de Lleó.\n\nLa Junta de Castella i Lleó diu que tot es va fer segons la norma. Explica que hi havia un agent mediambiental i dos vigilants, i que hi van ajudar veïns amb experiència.\n\nWWF creu que és un fet molt greu, perquè és un parc nacional i els óssos estan amenaçats. Demana aturar les batudes dins del parc fins que es revisin els protocols.",
-   "paraules": 104,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-23/ecologistas-exigen-aclarar-la-muerte-de-un-oso-en-una-caceria-en-el-parque-nacional-de-picos-de-europa.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "batuda",
-     "significat": "Caça en grup en què diverses persones recorren una zona."
-    },
-    {
-     "paraula": "amenaçat",
-     "significat": "Que està en perill de desaparèixer."
-    }
-   ],
-   "pregunta": "Què demana WWF?",
-   "resposta": "Una investigació i aturar les batudes dins del parc.",
-   "quiz": [
-    {
-     "pregunta": "Quin animal va morir?",
-     "opcions": [
-      "Un llop",
-      "Un ós bru",
-      "Un senglar"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "On va passar?",
-     "opcions": [
-      "A Posada de Valdeón, a Lleó",
-      "A Collserola",
-      "Als Pirineus"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Què diu la Junta de Castella i Lleó?",
-     "opcions": [
-      "Que no hi havia vigilància",
-      "Que cal prohibir la caça",
-      "Que tot es va fer segons la norma"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261124-07",
-   "categoria": "esports",
-   "categoria_nom": "Esports",
-   "ambit": "Món",
-   "titol": "Senegal torna a ser campió de la Copa d'Àfrica",
-   "text": "El Tribunal d'Arbitratge Esportiu (TAS) ha donat la raó a Senegal. Confirma que és el campió de l'última Copa d'Àfrica de Nacions.\n\nLa final es va jugar el 18 de gener a Rabat contra el Marroc. Senegal va guanyar 0-1 a la pròrroga, amb un gol de Pape Gueye.\n\nPerò la Confederació Africana de Futbol (CAF) va anul·lar la victòria i va declarar campió el Marroc per 3-0. Va dir que els jugadors de Senegal havien sortit del camp quan l'àrbitre va assenyalar un penal a favor del Marroc, que no es va marcar.\n\nSenegal va recórrer al TAS. El tribunal té la seu a Lausana, a Suïssa. Ara dona la raó a Senegal.",
-   "paraules": 114,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/deportes/futbol/2026-11-24/el-tribunal-de-arbitraje-deportivo-da-la-razon-a-senegal-y-confirma-su-triunfo-en-la-ultima-copa-africa.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "recórrer",
-     "significat": "Demanar a un tribunal que revisi una decisió."
-    },
-    {
-     "paraula": "pròrroga",
-     "significat": "Temps extra que es juga si hi ha empat."
-    }
-   ],
-   "pregunta": "Quin tribunal ha decidit que Senegal és campió?",
-   "resposta": "El Tribunal d'Arbitratge Esportiu (TAS).",
-   "quiz": [
-    {
-     "pregunta": "On es va jugar la final?",
-     "opcions": [
-      "A Lausana",
-      "A Rabat",
-      "A Dakar"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Qui va marcar el gol de Senegal?",
-     "opcions": [
-      "Pape Gueye",
-      "Un jugador del Marroc",
-      "Un jugador del Villarreal"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Per què la CAF va anul·lar la victòria?",
-     "opcions": [
-      "Per un gol en fora de joc",
-      "Perquè el Marroc va recórrer al tribunal",
-      "Perquè els senegalesos van sortir del camp"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261124-08",
-   "categoria": "esports",
-   "categoria_nom": "Esports",
-   "ambit": "Món",
-   "titol": "Gukesh i Sindarov empaten la primera del Mundial d'escacs",
-   "text": "El Mundial d'escacs ha començat a Ginebra. L'indi Dommaraju Gukesh, actual campió, i l'uzbek Javokhir Sindarov han fet taules en la primera partida. Han acabat després de 38 moviments.\n\nSindarov jugava amb les peces blanques. Va sorprendre Gukesh amb una novetat a l'obertura. Gukesh va estar 36 minuts per fer una sola jugada.\n\nPer això va anar molt just de temps. Però va respondre bé als problemes i va arribar a guanyar un peó. Cap dels dos va poder desequilibrar la partida.\n\nEl Mundial té catorze partides, així que en falten tretze. Qui arribi primer a 7,5 punts serà campió del món. Gukesh jugarà amb blanques aquest dimecres, i Sindarov amb negres.",
-   "paraules": 112,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/deportes/otros-deportes/20261124/11692503/resumen-partida-1-gukesh-sindarov-mundial-ajedrez.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "taules",
-     "significat": "Empat en una partida d'escacs."
-    },
-    {
-     "paraula": "obertura",
-     "significat": "Els primers moviments d'una partida d'escacs."
-    }
-   ],
-   "pregunta": "Quants punts calen per ser campió?",
-   "resposta": "7,5 punts.",
-   "quiz": [
-    {
-     "pregunta": "Com ha acabat la primera partida?",
-     "opcions": [
-      "Amb victòria de Gukesh",
-      "En taules",
-      "Amb victòria de Sindarov"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "On es juga el Mundial?",
-     "opcions": [
-      "A Ginebra",
-      "A Singapur",
-      "A Londres"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Per què Gukesh va anar just de temps?",
-     "opcions": [
-      "Perquè va arribar tard",
-      "Perquè va fer una pausa llarga",
-      "Perquè va pensar 36 minuts en una jugada"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261124-09",
-   "categoria": "successos",
-   "categoria_nom": "Successos",
-   "ambit": "Espanya",
-   "titol": "Detinguts 28 estafadors que enganyaven per telèfon i xarxes",
-   "text": "La Guardia Civil de Cantàbria ha detingut 28 persones a Barcelona i Girona. Altres quatre persones estan investigades. Se les acusa d'estafes per internet a víctimes de Cantàbria. En total, van aconseguir més de 112.000 euros.\n\nVint detencions són per «smishing» i «vishing». Els estafadors envien un SMS que sembla del banc, amb un enllaç. Després truquen per telèfon i demanen les claus.\n\nAltres tres casos eren missatges de WhatsApp d'un fals fill o familiar que demana diners amb urgència. També hi ha lloguers falsos i falses inversions en criptomonedes.\n\nL'operació s'ha anomenat Bargero 2026. També hi ha una persona detinguda per un anunci fals de lloguer d'un pis a Castro Urdiales. Va estafar 1.800 euros a dues persones.",
-   "paraules": 119,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/sucesos/20261124/11692124/detienen-28-personas-barcelona-girona-ciberestafas-mas-112-000-euros.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "estafa",
-     "significat": "Enganyar algú per treure-li diners."
-    },
-    {
-     "paraula": "criptomoneda",
-     "significat": "Moneda que només existeix a internet."
-    }
-   ],
-   "pregunta": "Com actuen els estafadors del «smishing»?",
-   "resposta": "Envien un SMS fals del banc i després truquen per demanar claus.",
-   "quiz": [
-    {
-     "pregunta": "Quantes persones han estat detingudes?",
-     "opcions": [
-      "12",
-      "28",
-      "112"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "On vivien els detinguts?",
-     "opcions": [
-      "A Cantàbria",
-      "A Madrid",
-      "A Barcelona i Girona"
-     ],
-     "correcta": 2
-    },
-    {
-     "pregunta": "Quin consell es dedueix per no caure en l'engany?",
-     "opcions": [
-      "No donar claus per telèfon o SMS",
-      "Respondre ràpid als missatges",
-      "Fer clic als enllaços"
-     ],
-     "correcta": 0
-    }
-   ]
-  },
-  {
-   "id": "20261124-10",
-   "categoria": "successos",
-   "categoria_nom": "Successos",
    "ambit": "Catalunya",
-   "titol": "Collserola no reobrirà fins a principis de l'any que ve",
-   "text": "El Govern de Catalunya no reobrirà el parc de Collserola fins a principis de l'any que ve. El parc és tancat per la pesta porcina africana (PPA), una malaltia que afecta els porcs i els senglars.\n\nEl conseller d'Agricultura, Òscar Ordeig, ha explicat que es crearà un grup de treball. Coordinarà com es van aixecant les restriccions.\n\nAbans d'acabar l'any hi haurà una primera proposta. Revisarà l'accés al medi natural a les zones de baix risc. Una segona proposta, a principis de l'any que ve, intentarà flexibilitzar l'accés a la zona d'alt risc, on hi ha Collserola.\n\nNo s'obrirà tot un municipi de cop. Es podrien reobrir només alguns camins i pistes.",
-   "paraules": 112,
+   "titol": "Collserola no reobrirà fins a principis del 2027",
+   "text": "El Govern no reobrirà el parc de Collserola fins a principis del 2027. Ho va explicar dimarts el conseller d'Agricultura, Òscar Ordeig.\n\nEl motiu és la crisi de la pesta porcina africana, una malaltia dels porcs. Collserola és en una zona d'alt risc, i el Govern la tracta com un cas a part.\n\nEs crearà un grup de treball per anar aixecant les restriccions poc a poc. Abans de final d'any hi haurà una primera proposta per a les zones de baix risc. A principis del 2027 n'hi haurà una altra per a les zones d'alt risc.\n\nLes restriccions no s'aixecaran de cop a tots els municipis. Podrien reobrir-se només alguns camins i pistes.",
+   "paraules": 114,
    "minuts": 1,
    "fonts": [
     {
@@ -544,235 +308,345 @@
    ],
    "glossari": [
     {
-     "paraula": "pesta porcina africana",
-     "significat": "Malaltia greu dels porcs i els senglars. No afecta les persones."
+     "paraula": "restricció",
+     "significat": "Norma que limita el que es pot fer."
     },
     {
-     "paraula": "flexibilitzar",
-     "significat": "Fer les normes menys estrictes."
+     "paraula": "zona d'alt risc",
+     "significat": "Lloc on hi ha més perill que es contagiï la malaltia."
     }
    ],
-   "pregunta": "Quan es plantegen reobrir Collserola?",
-   "resposta": "A principis de l'any que ve.",
+   "pregunta": "Fins quan no es reobrirà Collserola?",
+   "resposta": "Fins a principis del 2027.",
    "quiz": [
     {
-     "pregunta": "Per què és tancat Collserola?",
+     "pregunta": "Què ha dit el Govern sobre Collserola?",
      "opcions": [
-      "Per la pesta porcina africana",
-      "Per unes obres",
-      "Per un incendi"
+      "Que ja és oberta",
+      "Que no la reobrirà fins al 2027",
+      "Que la tancarà per sempre"
      ],
-     "correcta": 0
+     "correcta": 1
     },
     {
-     "pregunta": "Qui ho ha explicat?",
+     "pregunta": "Qui ho va explicar?",
      "opcions": [
-      "L'alcaldessa de Barcelona",
       "El conseller Òscar Ordeig",
-      "Un veterinari"
+      "L'alcalde de Barcelona",
+      "El president d'Espanya"
      ],
-     "correcta": 1
+     "correcta": 0
     },
     {
-     "pregunta": "Com es podrien reobrir els espais?",
+     "pregunta": "Quin és el motiu?",
      "opcions": [
-      "Tot un municipi de cop",
-      "Només els divendres",
-      "Alguns camins i pistes"
+      "Unes obres al parc",
+      "Un temporal de vent",
+      "La crisi de la pesta porcina africana"
      ],
      "correcta": 2
     }
    ]
   },
   {
-   "id": "20261124-11",
-   "categoria": "ciencia",
-   "categoria_nom": "Ciència i tecnologia",
+   "id": "20261125-07",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
+   "ambit": "Catalunya",
+   "titol": "El Barça de bàsquet perd contra el Fenerbahçe",
+   "text": "El Barça de bàsquet ha perdut 77-83 contra el Fenerbahçe al Palau Blaugrana. Era un partit de l'Eurolliga, la gran competició europea de clubs.\n\nA la part final, els dos equips van empatar a 71. Després, el Fenerbahçe va ser més encertat i va guanyar. Els triples de Shavon Shields el van ajudar a avançar-se.\n\nEl Barça va jugar amb baixes per lesions. Això va fer més difícil mantenir el ritme fins al final. Al primer quart, Justin Minaya va destacar i l'equip va fer 28 punts.\n\nAra l'equip descansarà fins dijous, quan jugarà el clàssic. Després, jugarà cinc dels sis partits següents fora de casa. Per tant, tindrà molts viatges per davant.",
+   "paraules": 113,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/esports/basquet/eurolliga/cronica-barca-fenerbahce_1_5921891.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "Eurolliga",
+     "significat": "La competició europea de bàsquet més important entre clubs."
+    },
+    {
+     "paraula": "triple",
+     "significat": "Cistella de tres punts."
+    }
+   ],
+   "pregunta": "Quin va ser el resultat del partit?",
+   "resposta": "El Barça va perdre 77-83.",
+   "quiz": [
+    {
+     "pregunta": "Qui va guanyar el partit?",
+     "opcions": [
+      "El Barça",
+      "El Fenerbahçe",
+      "Ningú, va ser empat"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quants punts va fer el Barça al primer quart?",
+     "opcions": [
+      "28",
+      "71",
+      "83"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Per què el Barça va jugar més just?",
+     "opcions": [
+      "Perquè hi havia baixes per lesions",
+      "Perquè no tenia pista",
+      "Perquè era un partit amistós"
+     ],
+     "correcta": 0
+    }
+   ]
+  },
+  {
+   "id": "20261125-08",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
    "ambit": "Món",
-   "titol": "Un astronauta pakistanès viatjarà a l'estació espacial xinesa",
-   "text": "Aquest dimecres, per primera vegada, un estranger viatjarà a l'estació espacial xinesa Tiangong, que vol dir «Palau Celestial». És el pilot pakistanès Muhammad Zeeshan Ali, de 40 anys i tinent coronel de la Força Aèria del Pakistan.\n\nViatjarà amb el comandant Tang Hongbo i l'enginyer de vol Wu Yi, a la missió Shenzhou-24. Sortiran de la base de Jiuquan, al desert del Gobi.\n\nAli va aprendre xinès a l'Institut Confuci d'Islamabad. El viatge és fruit d'un acord que els dos països van signar el 2025.\n\nFins ara, 29 astronautes xinesos han volat amb naus del seu país. La Xina mai no ha format part de l'Estació Espacial Internacional.",
-   "paraules": 108,
+   "titol": "L'entrenador del Sabah, rival del Barça, va guanyar un concurs",
+   "text": "Aquest dimecres el Barça juga a Bakú, a l'Azerbaidjan, contra el Sabah. És un partit de la Lliga de Campions. L'equip fa el viatge més llarg de la seva història en aquesta competició: gairebé 4.000 quilòmetres.\n\nL'entrenador del Sabah és el lituà Valdas Dambrauskas. El 2002 va guanyar més de 6.000 euros a la versió lituana de «Qui vol ser milionari?». Va fer servir els diners per estudiar a Anglaterra.\n\nEl Sabah es va fundar el 2017. Té jugadors de molts països. Per arribar a la Champions va eliminar tres equips en rondes prèvies.\n\nEl Barça té nou punts de dotze possibles.",
+   "paraules": 102,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "El País",
-     "enllac": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/esports/barca/rival-barca-sorprenent-historia-entrenador-sabah_130_5920064.html"
+    },
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/esports/barca/sabah-barca-champions-2026-2027_1_5921192.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "taikonauta",
-     "significat": "Astronauta xinès."
+     "paraula": "lituà",
+     "significat": "Persona o cosa de Lituània, un país del nord d'Europa."
     },
     {
-     "paraula": "tinent coronel",
-     "significat": "Un grau militar alt."
+     "paraula": "rondes prèvies",
+     "significat": "Partits que s'han de guanyar abans d'entrar a la competició."
     }
    ],
-   "pregunta": "Per què és especial aquest viatge?",
-   "resposta": "Perquè és el primer estranger que va a l'estació xinesa.",
+   "pregunta": "Què va fer Dambrauskas amb els diners del concurs?",
+   "resposta": "Els va fer servir per estudiar a Anglaterra.",
    "quiz": [
     {
-     "pregunta": "Com es diu l'astronauta pakistanès?",
+     "pregunta": "Contra qui juga el Barça aquest dimecres?",
      "opcions": [
-      "Tang Hongbo",
-      "Muhammad Zeeshan Ali",
-      "Wu Yi"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Què vol dir Tiangong?",
-     "opcions": [
-      "Palau Celestial",
-      "Gran Muralla",
-      "Ciutat Espacial"
+      "Contra el Sabah",
+      "Contra el Fenerbahçe",
+      "Contra el PSV"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "Què va fer possible el viatge?",
+     "pregunta": "En quin any es va fundar el Sabah?",
      "opcions": [
-      "Una oferta de l'ONU",
-      "Un concurs internacional",
-      "Un acord entre la Xina i el Pakistan"
+      "1917",
+      "2002",
+      "2017"
      ],
      "correcta": 2
+    },
+    {
+     "pregunta": "Per què és especial el viatge del Barça?",
+     "opcions": [
+      "Perquè és el més llarg de la seva història a la competició",
+      "Perquè van en tren",
+      "Perquè juguen de nit"
+     ],
+     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-12",
-   "categoria": "ciencia",
-   "categoria_nom": "Ciència i tecnologia",
-   "ambit": "Catalunya",
-   "titol": "Investigadors catalans creen molècules complexes amb més precisió",
-   "text": "Un equip de l'Institut Català d'Investigació Química (ICIQ) ha desenvolupat una nova manera de construir molècules complexes. L'ha dirigit el professor Marcos García Suero. El treball s'ha publicat a la revista Nature.\n\nLa tècnica se centra en els anells aromàtics. Es troben en alguns medicaments, com l'ibuprofè. Posar-hi diversos grups químics en llocs concrets és molt difícil.\n\nEl mètode nou parteix de fragments que ja porten els components necessaris. Amb una reacció química, s'uneixen i formen la molècula completa. Així es controla des del principi la posició de cada grup.\n\nPot ajudar a descobrir nous medicaments i materials per a l'electrònica o les plaques solars.",
-   "paraules": 105,
+   "id": "20261125-09",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
+   "ambit": "Espanya",
+   "titol": "Rècord de rescats al mar en un sol dia",
+   "text": "Dimarts, Espanya va registrar un nombre de rescats al mar mai vist en un sol dia. 2.100 migrants van arribar a l'illa d'El Hierro, a les Canàries, segons dades d'Efe.\n\nViatjaven en 15 piragües que van sortir del Senegal i de Gàmbia. La primera barca va arribar a les 2.45 de la matinada amb 217 persones.\n\nEntre els arribats hi havia almenys 203 dones i 127 menors. Diverses persones van ser portades a l'hospital, algunes amb hipotèrmia.\n\nAl novembre, ja han arribat a El Hierro més de 12.000 persones. El rècord anterior era d'1.580 persones en un dia, el 14 de novembre.",
+   "paraules": 102,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/vida/20261123/11691561/investigadores-iciq-desarrollan-estrategia-crear-estructuras-moleculares-complejas.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/immigracio/espanya-bat-record-rescats-mar-sol-dia-2-100-immigrants-mes-arriben-hierro_1_5922111.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "molècula",
-     "significat": "Grup d'àtoms units que formen una substància."
+     "paraula": "piragua",
+     "significat": "Barca llarga i estreta, com les que fan servir molts migrants per creuar l'oceà."
     },
     {
-     "paraula": "síntesi química",
-     "significat": "Fabricar una substància unint altres substàncies."
+     "paraula": "hipotèrmia",
+     "significat": "Estat en què el cos es posa molt fred."
     }
    ],
-   "pregunta": "Per a què pot servir el mètode nou?",
-   "resposta": "Per descobrir medicaments i materials nous.",
+   "pregunta": "Quantes persones van arribar a El Hierro dimarts?",
+   "resposta": "2.100 persones.",
    "quiz": [
     {
-     "pregunta": "On s'ha publicat el treball?",
+     "pregunta": "Què va passar dimarts?",
      "opcions": [
-      "A la revista Nature",
-      "A La Vanguardia",
-      "A Saragossa"
+      "Es va esgotar el record de turistes",
+      "Es va fer un rescat sense gent",
+      "Es va batre el rècord de rescats al mar en un dia"
+     ],
+     "correcta": 2
+    },
+    {
+     "pregunta": "En quantes piragües van viatjar?",
+     "opcions": [
+      "15",
+      "217",
+      "203"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "Quin institut l'ha fet?",
+     "pregunta": "Quina era la xifra del rècord anterior?",
      "opcions": [
-      "El CERN",
-      "L'ICIQ",
-      "La NASA"
+      "1.580 persones",
+      "2.100 persones",
+      "12.000 persones"
      ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Com es forma la molècula completa?",
-     "opcions": [
-      "Tallant un cristall",
-      "Escalfant-la molt",
-      "Unint fragments amb una reacció química"
-     ],
-     "correcta": 2
+     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-13",
-   "categoria": "cultura",
-   "categoria_nom": "Cultura",
+   "id": "20261125-10",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
    "ambit": "Catalunya",
-   "titol": "Es fa públic el testament d'Antoni Gaudí cent anys després",
-   "text": "El Col·legi de Notaris de Catalunya ha mostrat el testament d'Antoni Gaudí, cent anys després. És un text escrit a mà en 12 pàgines, del 12 de novembre de 1926.\n\nGaudí va deixar tots els seus béns a la Sagrada Família, perquè se seguissin les obres del temple. L'inventari és curt: la casa del parc Güell, valorada en 45.000 pessetes, i dos comptes bancaris amb 2.991,62 pessetes en total.\n\nEls notaris expliquen que seria l'herència d'una família amb alguns estalvis i una casa normal. Llavors el parc Güell no valia tant com ara.\n\nAquest any s'ha inaugurat la torre més alta del temple, la de Jesucrist.",
+   "titol": "Detingut a Sitges i extradit a Equador",
+   "text": "La Policia Nacional va detenir diumenge 22 de novembre un home que Equador buscava. Era en un hotel de Sitges, amb la seva família. És conegut com a «Comandant Willy». La policia el va trobar durant unes vacances.\n\nDimarts 24 el van extradir a Equador des de Reus. El president equatorià, John Reimberg, ho va anunciar a les xarxes socials.\n\nEl govern d'Equador diu que és el líder i fundador de la banda Los Tiguerones. També el relaciona amb l'assalt a la televisió pública del país, el 2024, i amb extorsions.\n\nExtradir vol dir que un país lliura una persona detinguda al país que la reclama.",
    "paraules": 106,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "El País",
-     "enllac": "https://elpais.com/cultura/2026-11-24/una-casa-2991-pesetas-y-una-obsesion-el-testamento-de-antoni-gaudi-ve-la-luz-100-anos-despues-de-su-muerte.html"
-    },
-    {
      "nom": "Ara",
-     "enllac": "https://www.ara.cat/cultura/arquitectura/antoni-gaudi-morir-3-000-pessetes-banc-casa-parc-guell_1_5920411.html"
+     "enllac": "https://www.ara.cat/societat/successos/extradit-l-equador-narcotraficant-localitzat-provincia-tarragona_25_5921267.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "testament",
-     "significat": "Document on una persona diu què passarà amb els seus béns quan mori."
+     "paraula": "extradir",
+     "significat": "Lliurar una persona detinguda al país que la reclama."
     },
     {
-     "paraula": "inventari",
-     "significat": "Llista dels béns que algú té."
+     "paraula": "extorsió",
+     "significat": "Obligar algú a donar diners amb amenaces."
     }
    ],
-   "pregunta": "A qui va deixar Gaudí els seus béns?",
-   "resposta": "A la Sagrada Família.",
+   "pregunta": "On va ser detingut l'home?",
+   "resposta": "En un hotel de Sitges.",
    "quiz": [
     {
-     "pregunta": "Quantes pàgines té el testament?",
+     "pregunta": "Què va passar dimarts 24?",
      "opcions": [
-      "Dotze",
-      "Vint",
-      "Tres"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quina casa tenia Gaudí?",
-     "opcions": [
-      "Una al passeig de Gràcia",
-      "Una al parc Güell",
-      "Una a Reus"
+      "Va fugir de Sitges",
+      "Va ser extradit a Equador",
+      "Va ser alliberat"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Per què va deixar-ho tot a la Sagrada Família?",
+     "pregunta": "Quin dia el va detenir la policia?",
      "opcions": [
-      "Per pagar uns deutes",
-      "Per fer un museu",
-      "Perquè continuessin les obres del temple"
+      "El 24 de novembre",
+      "El 29 de novembre",
+      "El 22 de novembre"
      ],
      "correcta": 2
+    },
+    {
+     "pregunta": "Qui va anunciar l'extradició?",
+     "opcions": [
+      "El president d'Equador",
+      "La policia de Reus",
+      "El conseller d'Interior"
+     ],
+     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261124-14",
-   "categoria": "cultura",
-   "categoria_nom": "Cultura",
+   "id": "20261125-11",
+   "categoria": "ciencia",
+   "categoria_nom": "Ciència i tecnologia",
    "ambit": "Catalunya",
-   "titol": "Barcelona estrena la Biennal d'Arts Digitals",
-   "text": "Barcelona ha inaugurat la Biennal d'Arts Digitals. És una plataforma que vol reunir tota l'oferta d'art digital i apropar-lo a la ciutadania.\n\nHi ha 35 activitats programades durant els propers tres mesos, fins al 14 de març. Hi participen més de cent artistes i creadors, de Catalunya i de fora.\n\nLa biennal s'ha estrenat amb l'exposició «Vectors. Art digital per pensar el futur», al Disseny Hub. Hi ha 33 artistes i unes quaranta obres. Comença amb pioners dels anys seixanta, que feien servir els primers ordinadors, que ocupaven sales senceres.\n\nTambé promourà esdeveniments com el Llum BCN, al febrer, o el mapatge de la casa Batlló, a finals de gener.",
-   "paraules": 110,
+   "titol": "Troben a Isona el coll d'un titanosaure gegant",
+   "text": "Paleontòlegs han recuperat el coll d'un titanosaure a Isona, al Pallars Jussà. Aquest dinosaure va viure fa uns 70 milions d'anys.\n\nEl coll fa uns 7 metres de llarg i pesa més de 15 tones. Treure'l del jaciment del Molí del Piteu va costar quatre hores.\n\nEls científics calculen que l'animal feia entre 15 i 18 metres de llarg. Podria ser més gran que el que van trobar el 2014. Encara han d'estudiar els ossos abans de dir si és el coll més gran trobat.\n\nEls ossos van quedar protegits dins una caixa d'uns sis metres, que anomenen «la mòmia».",
+   "paraules": 100,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/cultura/20261124/11692163/biennal-d-arts-digitals-arranca-muestra-sobre-pioneros-artistas-actuales-sector.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/l-enorme-coll-dinosaure-trobat-catalunya_1_5920106.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "paleontòleg",
+     "significat": "Científic que estudia els éssers vius del passat a partir dels fòssils."
     },
+    {
+     "paraula": "jaciment",
+     "significat": "Lloc on s'han trobat restes antigues."
+    }
+   ],
+   "pregunta": "Quant fa de llarg el coll trobat?",
+   "resposta": "Uns 7 metres.",
+   "quiz": [
+    {
+     "pregunta": "Què han trobat els paleontòlegs?",
+     "opcions": [
+      "Un ou de dinosaure",
+      "El coll d'un titanosaure",
+      "Una cova amb pintures"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quant van trigar a treure'l del jaciment?",
+     "opcions": [
+      "Quatre hores",
+      "Quatre dies",
+      "Quatre mesos"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Per què no diuen encara que és el més gran?",
+     "opcions": [
+      "Perquè s'ha perdut",
+      "Perquè han d'estudiar abans els ossos",
+      "Perquè és del 2014"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261125-12",
+   "categoria": "cultura",
+   "categoria_nom": "Cultura",
+   "ambit": "Catalunya",
+   "titol": "Barcelona estrena la primera Biennal d'Arts Digitals",
+   "text": "Barcelona ha inaugurat la primera Biennal d'Arts Digitals. S'ha obert al DHub aquest dimecres 25 de novembre.\n\nL'exposició té unes quaranta obres de 33 artistes. Hi ha pioners dels anys 60 i 70 i creadors actuals. La comissària, Irma Vilà, diu que el segle XXI es pot explicar «amb les pantalles, els algoritmes i les comunitats».\n\nUna de les obres mostra esbossos de codi informàtic que l'artista Zachary Lieberman fa cada dia des del 2016.\n\nHi haurà activitats fins al març del 2027. Al futur vestíbul de l'estació de Glòries hi haurà una pantalla de 15 metres per mostrar art digital.",
+   "paraules": 101,
+   "minuts": 1,
+   "fonts": [
     {
      "nom": "Ara",
      "enllac": "https://www.ara.cat/cultura/art/barcelona-inaugura-biennal-vol-explicar-segle-xxi-traves-l-art-digital_1_5921532.html"
@@ -781,40 +655,97 @@
    "glossari": [
     {
      "paraula": "biennal",
-     "significat": "Esdeveniment que es fa cada dos anys."
+     "significat": "Mostra o festival que es fa cada dos anys."
     },
     {
-     "paraula": "pioner",
-     "significat": "Persona que va ser de les primeres a fer una cosa."
+     "paraula": "algoritme",
+     "significat": "Llista de passos que segueix un ordinador per fer una tasca."
     }
    ],
-   "pregunta": "Fins quan duren les activitats de la biennal?",
-   "resposta": "Fins al 14 de març.",
+   "pregunta": "Quants artistes participen a l'exposició?",
+   "resposta": "33 artistes.",
    "quiz": [
     {
-     "pregunta": "Quantes activitats hi ha programades?",
+     "pregunta": "Què s'ha inaugurat a Barcelona?",
      "opcions": [
-      "10",
-      "100",
-      "35"
+      "Un museu de ciències",
+      "Un concert de música clàssica",
+      "La primera Biennal d'Arts Digitals"
      ],
      "correcta": 2
     },
     {
-     "pregunta": "Com es diu l'exposició inaugural?",
+     "pregunta": "Quantes obres té l'exposició, aproximadament?",
      "opcions": [
-      "Vectors",
-      "Llum BCN",
-      "Pioners"
+      "Unes quaranta",
+      "Unes quatre",
+      "Unes quatre-centes"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "Què feien servir els artistes pioners dels anys seixanta?",
+     "pregunta": "Quant farà la pantalla del vestíbul de Glòries?",
      "opcions": [
-      "Mòbils",
-      "Els primers ordinadors",
-      "Pintura a l'oli"
+      "2 metres",
+      "15 metres",
+      "60 metres"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261125-13",
+   "categoria": "cultura",
+   "categoria_nom": "Cultura",
+   "ambit": "Catalunya",
+   "titol": "Una exposició de Lego amb més d'un milió de peces",
+   "text": "A Barcelona hi ha una exposició amb més d'un milió de peces de Lego. Es diu «Art of the brick» i es pot veure a l'Espai Inmersa fins al 10 de gener.\n\nLes obres són de l'artista nord-americà Nathan Sawaya. Són escultures fetes amb peces de Lego. N'hi ha unes trenta versions de quadres famosos, com «La Gioconda» i «La nit estelada».\n\nL'atracció principal és un esquelet de tiranosaure d'uns sis metres. Està fet amb 80.020 peces i té un rècord Guinness.\n\nEl recorregut dura una hora i és per a totes les edats. També hi ha una zona interactiva.",
+   "paraules": 100,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/cultura/lego-donen-vida-l-exposicio-art-of-the-brick_25_5921603.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "escultura",
+     "significat": "Obra d'art en tres dimensions, feta amb materials com pedra, metall o peces."
+    },
+    {
+     "paraula": "interactiu",
+     "significat": "Que permet que el visitant hi participi i ho toqui."
+    }
+   ],
+   "pregunta": "Amb quantes peces està fet l'esquelet de tiranosaure?",
+   "resposta": "Amb 80.020 peces.",
+   "quiz": [
+    {
+     "pregunta": "Quin material fa servir l'artista?",
+     "opcions": [
+      "Argila",
+      "Peces de Lego",
+      "Paper"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Fins quan es pot veure l'exposició?",
+     "opcions": [
+      "Fins al 10 de gener",
+      "Fins al 25 de novembre",
+      "Fins al març"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Quin rècord té l'esquelet de tiranosaure?",
+     "opcions": [
+      "Un rècord de velocitat",
+      "Un rècord Guinness",
+      "Un rècord olímpic"
      ],
      "correcta": 1
     }
