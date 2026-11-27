@@ -1,597 +1,499 @@
 {
- "data": "2026-11-26",
- "actualitzat": "2026-11-26T08:00:00Z",
+ "data": "2026-11-27",
+ "actualitzat": "2026-11-27T08:00:00Z",
  "histories": [
   {
-   "id": "20261126-01",
+   "id": "20261127-01",
    "categoria": "politica",
    "categoria_nom": "Política",
    "ambit": "Espanya",
-   "titol": "Els quatre candidats debaten aquesta nit a la televisió",
-   "text": "Aquesta nit hi ha l'últim debat de la campanya de les eleccions generals. Els candidats de PSOE, PP, Vox i Frente Amplio hi participen. Són Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal i Ada Colau.\n\nEl debat comença a les 22.00 hores i dura gairebé dues hores. La moderadora és María Casado, presidenta de l'Acadèmia de la Televisió. Ada Colau obre el debat i Feijóo el tanca.\n\nHi ha cinc temes: habitatge, economia i impostos, política social, lluita contra la corrupció, i migració i política exterior. Cada tema dura 20 minuts. Els candidats tenen cinc minuts cadascun i no poden fer servir aparells electrònics. Les eleccions són el diumenge 29 de novembre.",
-   "paraules": 112,
+   "titol": "Els quatre candidats debaten tres dies abans de votar",
+   "text": "Aquest dijous, els quatre candidats principals a les eleccions generals han fet un debat a la televisió. Hi han participat Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal i Ada Colau. Els espanyols voten el diumenge 29 de novembre.\n\nSegons La Vanguardia, Sánchez i Colau van actuar com un equip. Van explicar què ha fet el Govern i van avisar contra un possible govern del PP i Vox. Colau també va criticar Sánchez pels casos de corrupció i per l'habitatge.\n\nFeijóo i Abascal gairebé no es van adreçar l'un a l'altre. Tots dos van criticar la feina del Govern actual. Feijóo va preguntar a Sánchez si dimitiria en cas de perdre. El debat anava dirigit als votants que encara no han decidit el seu vot.",
+   "paraules": 124,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "El País",
-     "enllac": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html"
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/politica/20261127/11694443/debate-trincheras-refuerza-division-izquierda-derecha-santiago.html"
     },
     {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/politica/20261126/11693408/asi-sera-debate-cuatro-hoy-dos-horas-abrira-colau-cerrara-feijoo.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/politica/sanchez-colau-pinya-bloc-pp-vox_1_5924461.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Moderadora",
-     "significat": "Persona que dirigeix un debat i dona la paraula a cadascú."
+     "paraula": "debat",
+     "significat": "Conversa en què cada persona defensa les seves idees davant dels altres."
     },
     {
-     "paraula": "Candidat",
-     "significat": "Persona que es presenta a unes eleccions per ser escollida."
+     "paraula": "indecís",
+     "significat": "Persona que encara no ha decidit què votarà."
     }
    ],
-   "pregunta": "Quant dura més o menys el debat?",
-   "resposta": "Gairebé dues hores.",
+   "pregunta": "Quin dia es voten les eleccions generals?",
+   "resposta": "El diumenge 29 de novembre.",
    "quiz": [
     {
-     "pregunta": "Quin dia són les eleccions generals?",
+     "pregunta": "Quants candidats van participar en el debat?",
      "opcions": [
-      "El 26 de novembre",
-      "El 29 de novembre",
-      "El 22 de novembre"
+      "Dos",
+      "Quatre",
+      "Sis"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Qui obre el debat?",
+     "pregunta": "Què va preguntar Feijóo a Sánchez?",
      "opcions": [
-      "Feijóo",
-      "Pedro Sánchez",
-      "Ada Colau"
+      "Si dimitiria en cas de perdre",
+      "Si volia un altre debat",
+      "Si votaria el diumenge"
      ],
-     "correcta": 2
+     "correcta": 0
     },
     {
-     "pregunta": "Què no poden fer servir els candidats?",
+     "pregunta": "A qui anava dirigit el debat, segons el text?",
      "opcions": [
-      "Rellotges",
-      "Aparells electrònics",
-      "Micròfons"
+      "Només als periodistes",
+      "Als votants que encara no han decidit",
+      "Als candidats d'altres països"
      ],
      "correcta": 1
     }
    ]
   },
   {
-   "id": "20261126-02",
+   "id": "20261127-02",
    "categoria": "politica",
    "categoria_nom": "Política",
-   "ambit": "Catalunya",
-   "titol": "Les dones encapçalen el 40,8% de les llistes al Congrés",
-   "text": "A les eleccions generals del 29 de novembre, les dones són la primera de la llista en 218 candidatures. Són el 40,82% del total de 534 candidatures que es presenten a les 52 circumscripcions.\n\nEl 2019 eren el 38,41%. L'augment és de només 2,41 punts, segons les dades que ha recollit el diari Ara.\n\nUna llei del 2024 obliga els partits a alternar homes i dones a les llistes. Però la llei no diu qui ha d'anar en primer lloc.\n\nEntre els grans partits, el PP té 29 dones capçaleres de llista sobre 52. El PSOE en té 27. Vox en té 13.",
-   "paraules": 103,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "Ara",
-     "enllac": "https://www.ara.cat/politica/eleccions-generals/pp-supera-psoe-dones-caps-llista_1_5910466.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Circumscripció",
-     "significat": "Zona on es voten i es compten els vots per escollir diputats."
-    },
-    {
-     "paraula": "Candidatura",
-     "significat": "Llista de persones que un partit presenta a unes eleccions."
-    }
-   ],
-   "pregunta": "Quantes dones encapçalen llistes al Congrés?",
-   "resposta": "218.",
-   "quiz": [
-    {
-     "pregunta": "Quantes dones encapçalen llistes?",
-     "opcions": [
-      "218",
-      "116",
-      "534"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quin partit gran en té més?",
-     "opcions": [
-      "PSOE",
-      "Vox",
-      "PP"
-     ],
-     "correcta": 2
-    },
-    {
-     "pregunta": "Què obliga a fer la llei del 2024?",
-     "opcions": [
-      "Alternar homes i dones",
-      "Posar dones primeres",
-      "Fer llistes més curtes"
-     ],
-     "correcta": 0
-    }
-   ]
-  },
-  {
-   "id": "20261126-03",
-   "categoria": "economia",
-   "categoria_nom": "Economia",
-   "ambit": "Espanya",
-   "titol": "Madrid perd treballadors i Toledo i Guadalajara en guanyen",
-   "text": "L'Agència Tributària ha publicat dades de canvis de feina entre províncies. El 2025, més de 342.000 assalariats van canviar de província per treballar.\n\nLa Comunitat de Madrid va perdre 61.447 treballadors que se'n van anar a altres províncies. Alhora en va rebre 54.588 d'altres zones. El resultat és que en va perdre 6.859.\n\nMolts van anar a Toledo i Guadalajara, on els habitatges són més assequibles. Segons els experts, el preu de l'habitatge hi té molt a veure. També hi ha hagut moviment cap a València i Alacant.\n\nA Barcelona, en canvi, van sortir 31.500 treballadors i en van entrar 31.000. Gairebé s'hi manté l'equilibri.",
-   "paraules": 105,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/economia/2026-11-26/buscador-de-la-movilidad-laboral-en-espana-madrid-pierde-trabajadores-y-valencia-lidera-la-atraccion-de-asalariados.html"
-    },
-    {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/economia/20261126/11693463/precio-vivienda-acelera-salida-trabajadores-madrid-barcelona-mantiene-equilibrio.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Assalariat",
-     "significat": "Persona que treballa per a una empresa i cobra un sou."
-    },
-    {
-     "paraula": "Assequible",
-     "significat": "Que es pot pagar sense gaire dificultat."
-    }
-   ],
-   "pregunta": "Quin és el saldo de Madrid?",
-   "resposta": "Va perdre 6.859 treballadors.",
-   "quiz": [
-    {
-     "pregunta": "Què ha publicat l'Agència Tributària?",
-     "opcions": [
-      "Dades sobre canvis de feina",
-      "Una llei nova",
-      "Preus de pisos"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quants treballadors va perdre Madrid, al final?",
-     "opcions": [
-      "61.447",
-      "6.859",
-      "54.588"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Per què molts van anar a Toledo i Guadalajara?",
-     "opcions": [
-      "Hi ha més sol",
-      "Els habitatges són més assequibles",
-      "Hi ha més escoles"
-     ],
-     "correcta": 1
-    }
-   ]
-  },
-  {
-   "id": "20261126-04",
-   "categoria": "economia",
-   "categoria_nom": "Economia",
-   "ambit": "Catalunya",
-   "titol": "La UE avisa que l'habitatge pot perjudicar la democràcia",
-   "text": "El comissari europeu d'Habitatge, Dan Jorgensen, ha fet un avís aquest dimecres. Ha parlat en una reunió de ministres a Dublín. Els ministres de la Unió hi tracten aquest problema.\n\nSegons ell, a Europa hi ha un gran problema per trobar habitatge assequible. Diu que, si els governants no hi fan res, la gent pot perdre la confiança en els partits i les institucions.\n\nJorgensen ha explicat que els joves són els més afectats. En alguns països s'independitzen cap als trenta anys. Això els fa ajornar projectes com formar una família.\n\nEl comissari també ha criticat els qui compren pisos només per fer negoci, i no per viure-hi.",
-   "paraules": 108,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "Ara",
-     "enllac": "https://www.ara.cat/economia/immobiliari/ue-avisa-crisi-l-habitatge-perill-democracia_1_5922949.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Comissari",
-     "significat": "Persona que forma part de la Comissió Europea i s'encarrega d'un tema."
-    },
-    {
-     "paraula": "Independitzar-se",
-     "significat": "Anar a viure sol, fora de casa dels pares."
-    }
-   ],
-   "pregunta": "A quina edat s'independitzen els joves en alguns països?",
-   "resposta": "Cap als trenta anys.",
-   "quiz": [
-    {
-     "pregunta": "Qui ha fet l'avís?",
-     "opcions": [
-      "Dan Jorgensen",
-      "Ursula von der Leyen",
-      "Un ministre de Dublín"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "On s'ha fet la reunió de ministres?",
-     "opcions": [
-      "A Brussel·les",
-      "A Dublín",
-      "A Madrid"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Quin risc diu que hi ha si no s'actua?",
-     "opcions": [
-      "Que pugi la llum",
-      "Que no hi hagi joves",
-      "Que la gent perdi la confiança en les institucions"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261126-05",
-   "categoria": "medi_ambient",
-   "categoria_nom": "Medi ambient",
    "ambit": "Món",
-   "titol": "Els ocells marins ajuden a detectar vaixells invisibles",
-   "text": "Uns científics de la Universitat d'Oxford han posat gravadores de so a ocells marins. Volien detectar vaixells que no es veuen als sistemes de seguiment habituals.\n\nMolts vaixells han de dur un sistema anomenat AIS, que indica on són. Però alguns no l'utilitzen perquè no els funciona o el desconnecten.\n\nLes gravadores es van posar a mascarells a l'Atlàntic Nord i a baldrigues balears a la Mediterrània. Els mascarells van captar vaixells sense AIS en el 32% de les trobades. Les baldrigues, en el 12%.\n\nL'estudi s'ha publicat a la revista Science Advances. Els investigadors diuen que els sistemes públics no donen una imatge completa.",
-   "paraules": 105,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-25/aves-marinas-actuan-como-espias-grabando-sonidos-de-barcos-pesqueros.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "AIS",
-     "significat": "Sistema que envia la posició i la identitat d'un vaixell."
-    },
-    {
-     "paraula": "Baldriga",
-     "significat": "Ocell marí que vola sobre el mar i hi pesca."
-    }
-   ],
-   "pregunta": "Què van posar els científics als ocells?",
-   "resposta": "Gravadores de so.",
-   "quiz": [
-    {
-     "pregunta": "Quina universitat dirigeix l'estudi?",
-     "opcions": [
-      "Oxford",
-      "Barcelona",
-      "Madrid"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "En quin percentatge de trobades van captar vaixells sense AIS els mascarells?",
-     "opcions": [
-      "12%",
-      "57%",
-      "32%"
-     ],
-     "correcta": 2
-    },
-    {
-     "pregunta": "Per què alguns vaixells són invisibles?",
-     "opcions": [
-      "No volen o no poden usar l'AIS",
-      "Són massa petits per navegar",
-      "Només naveguen de nit"
-     ],
-     "correcta": 0
-    }
-   ]
-  },
-  {
-   "id": "20261126-06",
-   "categoria": "medi_ambient",
-   "categoria_nom": "Medi ambient",
-   "ambit": "Espanya",
-   "titol": "Europa ha d'avançar per eliminar les gàbies a les granges",
-   "text": "El Tribunal General de la Unió Europea ha criticat la Comissió Europea. El motiu és que no ha presentat una llei per eliminar a poc a poc les gàbies a les granges d'animals.\n\nLa Comissió s'havia compromès a fer-ho el 2021. La llei s'havia de presentar el 2023. El compromís va venir després que l'organització End The Cage reunís 1,4 milions de signatures de ciutadans europeus.\n\nEl comissari Olivér Várhelyi ha confirmat que la Comissió preveu aprovar la proposta el 9 de desembre. És a dir, tres anys més tard del previst.\n\nEl mateix dia, centenars d'activistes es van concentrar a Brussel·les per demanar que no hi hagi més retards.",
-   "paraules": 110,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/clima-y-medio-ambiente/2026-11-25/la-justicia-europea-reprocha-a-bruselas-que-no-cumpla-su-compromiso-de-eliminar-progresivamente-las-jaulas-para-la-cria-de-animales.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Tribunal",
-     "significat": "Lloc on uns jutges decideixen si s'ha complert la llei."
-    },
-    {
-     "paraula": "Activista",
-     "significat": "Persona que es mobilitza per defensar una causa."
-    }
-   ],
-   "pregunta": "Quan preveu aprovar la proposta la Comissió?",
-   "resposta": "El 9 de desembre.",
-   "quiz": [
-    {
-     "pregunta": "Què demana la llei?",
-     "opcions": [
-      "Eliminar les gàbies a les granges",
-      "Tancar les granges",
-      "Alimentar més els animals"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quantes signatures va reunir End The Cage?",
-     "opcions": [
-      "1,4 milions",
-      "14.000",
-      "140 milions"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Quan s'havia de presentar la llei?",
-     "opcions": [
-      "El 2021",
-      "El 2023",
-      "El 2026"
-     ],
-     "correcta": 1
-    }
-   ]
-  },
-  {
-   "id": "20261126-07",
-   "categoria": "esports",
-   "categoria_nom": "Esports",
-   "ambit": "Espanya",
-   "titol": "L'Atlètic de Madrid guanya 2-0 al Viking a la Champions",
-   "text": "L'Atlètic de Madrid ha guanyat el Viking noruec per 2 a 0 a l'estadi Metropolità. Era un partit de la Champions League.\n\nEl primer gol el va fer Sörloth al minut 18. Va rematar un passada de Grimaldo. Pocs minuts després, Julián Álvarez va marcar de falta directa i va fer el 2-0.\n\nL'equip de Simeone venia de perdre contra el Bayern i contra el Barça. Aquests resultats l'havien deixat en una posició complicada a la classificació. Amb aquesta victòria s'apropa a la fase d'eliminatòries.\n\nSegons els diaris, el Viking va començar bé el partit. Va jugar amb passades curtes i molta pressió. Però després de dos gols en pocs minuts, l'Atlètic va dominar.",
+   "titol": "Els líders de la UE no pacten el pressupost",
+   "text": "Els líders de la Unió Europea s'han reunit aquest dijous a Brussel·les. Han parlat del pressupost comú dels anys 2028 a 2034. Després de més de dotze hores de reunions, no han arribat a cap acord.\n\nEl president del Consell Europeu, Antonio Costa, ho ha reconegut: \"No hem aconseguit cap acord\". Segons ell, alguns països volen més retallades i la majoria s'hi oposa.\n\nFrança i Alemanya volen tancar el pressupost abans de Nadal. Segons La Vanguardia, el president francès, Emmanuel Macron, ho veu difícil. Les eleccions franceses són molt a prop. Altres països, com Itàlia, els Països Baixos i Suècia, diuen que no cal tenir pressa. Prefereixen un bon acord a un acord ràpid.",
    "paraules": 114,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "El País",
-     "enllac": "https://elpais.com/deportes/futbol/2026-11-25/sorloth-y-julian-alvarez-sacan-la-bandera-del-gol-en-el-atletico-para-derrotar-al-viking.html"
-    },
-    {
      "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20261125/11693502/soerloth-julian-alvarez-sellan-expediente-cinco-minutos.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Remat",
-     "significat": "Xut fort a porteria per intentar marcar."
-    },
-    {
-     "paraula": "Falta directa",
-     "significat": "Xut que es llança directament a porteria després d'una falta."
-    }
-   ],
-   "pregunta": "Quin va ser el resultat?",
-   "resposta": "L'Atlètic va guanyar 2-0.",
-   "quiz": [
-    {
-     "pregunta": "Contra quin equip va jugar l'Atlètic?",
-     "opcions": [
-      "Bayern",
-      "Viking",
-      "Sabah"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Qui va fer el primer gol?",
-     "opcions": [
-      "Sörloth",
-      "Julián Álvarez",
-      "Grimaldo"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "De quina manera va marcar Julián Álvarez?",
-     "opcions": [
-      "De penal",
-      "De cap",
-      "De falta"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261126-08",
-   "categoria": "esports",
-   "categoria_nom": "Esports",
-   "ambit": "Catalunya",
-   "titol": "El Barça goleja 1-4 el Sabah a l'Azerbaidjan",
-   "text": "El Barça ha guanyat el Sabah per 1 a 4 a Bakú, a l'Azerbaidjan. Era un partit de la Champions League.\n\nL'entrenador, Hansi Flick, va fer molts canvis. Lamine Yamal no va jugar i Raphinha va descansar. Van jugar Gavi, Balde i De Jong.\n\nAl principi el Sabah va crear ocasions i el porter Joan Garcia va fer una gran aturada. Després, Gordon va fer dos gols. També van marcar Adeyemi i Gabriel Jesus.\n\nFeia fred i vent a l'estadi, que és molt gran. Segons Ara, gairebé no hi havia ambient a la graderia. Hi havia uns 50.000 aficionats. El Barça jugarà ara contra el City, el Sporting i el Como.",
-   "paraules": 111,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/deportes/futbol/2026-11-25/el-barcelona-gana-con-la-gorra-al-sabah-en-baku.html"
+     "enllac": "https://www.lavanguardia.com/economia/20261126/11694170/sombra-le-pen-sobrevuela-negociacion-proximo-presupuesto-comunitario.html"
     },
     {
      "nom": "Ara",
-     "enllac": "https://www.ara.cat/esports/barca/sabah-barca-champions-2026-2027_1_5921192.html"
+     "enllac": "https://www.ara.cat/economia/fantasma-le-pen-ja-no-espanta-liders-europeus_1_5923782.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Rotacions",
-     "significat": "Canvis de jugadors que fa l'entrenador perquè alguns descansin."
-    }
-   ],
-   "pregunta": "Quants gols va fer Gordon?",
-   "resposta": "Dos.",
-   "quiz": [
-    {
-     "pregunta": "On es va jugar el partit?",
-     "opcions": [
-      "A Lisboa",
-      "A Bakú",
-      "A Manchester"
-     ],
-     "correcta": 1
+     "paraula": "pressupost",
+     "significat": "Pla dels diners que es gastaran i dels que es tindran durant uns anys."
     },
     {
-     "pregunta": "Qui va fer dos gols?",
+     "paraula": "retallada",
+     "significat": "Reducció dels diners que es gasten en alguna cosa."
+    }
+   ],
+   "pregunta": "Quant va durar la reunió sense acord?",
+   "resposta": "Més de dotze hores.",
+   "quiz": [
+    {
+     "pregunta": "On es van reunir els líders europeus?",
      "opcions": [
-      "Gordon",
-      "Adeyemi",
-      "Gabriel Jesus"
+      "A Brussel·les",
+      "A Madrid",
+      "A París"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "Per què va canviar tants jugadors Flick?",
+     "pregunta": "Per a quins anys és el pressupost?",
      "opcions": [
-      "Estaven lesionats",
-      "Perquè alguns descansessin",
-      "Per un càstig"
+      "2025 a 2030",
+      "2028 a 2034",
+      "2030 a 2040"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Què volen Itàlia, els Països Baixos i Suècia?",
+     "opcions": [
+      "Signar l'acord de pressa",
+      "Un bon acord, sense pressa",
+      "Deixar la reunió"
      ],
      "correcta": 1
     }
    ]
   },
   {
-   "id": "20261126-09",
-   "categoria": "successos",
-   "categoria_nom": "Successos",
-   "ambit": "Catalunya",
-   "titol": "La neu arriba per sorpresa a Prades",
-   "text": "Aquest dimecres ha nevat a Prades, al Baix Camp. Aquest poble és a 950 metres d'altitud i la neu no s'hi esperava.\n\nUna massa d'aire fred polar ha fet baixar les temperatures. Amb les pluges que han arribat a gran part del país, la cota de neu ha caigut fins a sota dels 1.000 metres.\n\nTambé ha nevat a les parts altes dels Ports, Montserrat, Sant Llorenç del Munt i el Montseny. Era la primera vegada aquesta tardor que nevava fora del Pirineu en molts d'aquests llocs.\n\nAl Pirineu s'espera que la nevada duri fins dijous. Baqueira Beret ha endarrerit l'obertura de l'estació.",
+   "id": "20261127-03",
+   "categoria": "economia",
+   "categoria_nom": "Economia",
+   "ambit": "Espanya",
+   "titol": "Pablo Hernández de Cos presidirà el Banc Central Europeu",
+   "text": "L'espanyol Pablo Hernández de Cos serà el proper president del Banc Central Europeu (BCE). Els líders de la Unió Europea ho han pactat aquest dijous. Substituirà Christine Lagarde al febrer.\n\nSerà el primer espanyol que dirigeix aquesta institució. El BCE és el banc que decideix sobre els diners dels països que fan servir l'euro. Hernández de Cos va ser governador del Banc d'Espanya.\n\nEl seu rival era el neerlandès Klaas Knot. Al final, els 21 països de l'eurozona van donar suport a Hernández de Cos. Encara falta que el Parlament Europeu ho aprovi. La seva audiència està prevista per al 7 de desembre.",
    "paraules": 103,
    "minuts": 1,
    "fonts": [
     {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/economia/20261126/11693870/espanol-pablo-hernandez-cos-sera-proximo-presidente-bce.html"
+    },
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html"
+    },
+    {
      "nom": "Ara",
-     "enllac": "https://www.ara.cat/societat/neu-sorpresa-prades-emblanquina-muntanyes-prelitoral_1_5922706.html"
+     "enllac": "https://www.ara.cat/economia/macroeconomia/pablo-hernandez-cos-l-home-discret-proper-escalat-fins-presidencia-bce_1_5923653.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Cota de neu",
-     "significat": "Altura a partir de la qual cau neu."
+     "paraula": "eurozona",
+     "significat": "Conjunt de països de la Unió Europea que fan servir l'euro."
     },
     {
-     "paraula": "Prelitoral",
-     "significat": "Zona de muntanyes que hi ha entre la costa i el Pirineu."
+     "paraula": "governador",
+     "significat": "Persona que dirigeix un banc central."
     }
    ],
-   "pregunta": "Quina estació ha endarrerit l'obertura?",
-   "resposta": "Baqueira Beret.",
+   "pregunta": "A qui substituirà Hernández de Cos?",
+   "resposta": "A Christine Lagarde.",
    "quiz": [
     {
-     "pregunta": "On ha nevat per sorpresa?",
+     "pregunta": "Quina feina tindrà Hernández de Cos?",
      "opcions": [
-      "A Prades",
-      "A Barcelona",
-      "A Tarragona"
+      "President del BCE",
+      "President d'Espanya",
+      "Governador d'un país"
      ],
      "correcta": 0
     },
     {
-     "pregunta": "A quina altura és Prades?",
+     "pregunta": "Quants països de l'eurozona el van donar suport?",
      "opcions": [
-      "1.705 metres",
-      "950 metres",
-      "200 metres"
+      "12",
+      "21",
+      "27"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Què ha fet baixar les temperatures?",
+     "pregunta": "Què falta perquè sigui oficial?",
      "opcions": [
-      "Un volcà",
-      "Una massa d'aire fred polar",
-      "Un ventilador"
+      "Una votació a Espanya",
+      "Que el Parlament Europeu ho aprovi",
+      "Que Lagarde canviï d'idea"
      ],
      "correcta": 1
     }
    ]
   },
   {
-   "id": "20261126-10",
-   "categoria": "successos",
-   "categoria_nom": "Successos",
-   "ambit": "Catalunya",
-   "titol": "Els nous trens de Rodalies reben l'homologació",
-   "text": "Els nous trens de Rodalies de la sèrie 452 han rebut l'autorització de l'Agència Estatal de Seguretat Ferroviària. Això vol dir que ja compleixen les normes europees i estatals.\n\nEls trens els fabrica l'empresa Alstom a Santa Perpètua. El procés va començar el gener del 2025 i han calgut gairebé dos anys de proves. Es van fer sobretot de nit a la línia del Maresme.\n\nRenfe ha comprat 72 trens. Alstom ha promès entregar-ne 16 abans que acabi l'any. Segons La Vanguardia, començaran a circular a principis de l'any vinent.\n\nLa consellera Sílvia Paneque diu que tindran més capacitat i millors condicions per als usuaris.",
+   "id": "20261127-04",
+   "categoria": "economia",
+   "categoria_nom": "Economia",
+   "ambit": "Món",
+   "titol": "Black Friday amb una nova tasa per als paquets estrangers",
+   "text": "Avui comença el Black Friday, el dia de les grans ofertes. Aquest any hi ha una novetat. Els paquets que arriben de fora de la UE i valen menys de 150 euros paguen cinc euros. El pagament és per cada categoria de producte.\n\nSe l'anomena tasa Shein. Són tres euros d'aranzel i dos euros de tramitació. Si un paquet porta dues samarretes iguals, paga cinc euros. Si també porta una joguina, en paga deu.\n\nLes botigues europees diuen que plataformes com Shein, Temu o Amazon fan competència deslleial. Segons un estudi, Shein va passar d'un 7% de la despesa en moda a menys d'un 5%.",
    "paraules": 105,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "Ara",
-     "enllac": "https://www.ara.cat/societat/mobilitat/nous-trens-rodalies-superen-l-homologacio-europea_25_5923176.html"
-    },
-    {
      "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/local/barcelona/20261125/11693430/nuevos-trenes-rodalies-alstom-homologacion.html"
+     "enllac": "https://www.lavanguardia.com/economia/20261127/11694364/primer-black-friday-tasa-shein-da-aire-comercios-locales.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Homologació",
-     "significat": "Autorització oficial que confirma que un producte compleix les normes."
+     "paraula": "aranzel",
+     "significat": "Impost que es paga quan entren productes d'un altre país."
+    },
+    {
+     "paraula": "competència deslleial",
+     "significat": "Vendre en condicions que no són justes per als altres comerços."
     }
    ],
-   "pregunta": "Quants trens ha comprat Renfe?",
-   "resposta": "72.",
+   "pregunta": "Quant paga un paquet amb dues samarretes iguals?",
+   "resposta": "Cinc euros.",
    "quiz": [
     {
-     "pregunta": "Quina empresa fabrica els trens?",
+     "pregunta": "Quins paquets paguen la nova tasa?",
      "opcions": [
-      "Renfe",
-      "Alstom",
-      "Aesf"
+      "Els de dins d'Espanya",
+      "Els de menys de 150 euros de fora de la UE",
+      "Tots els de més de 500 euros"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Quants trens s'han de lliurar abans de final d'any?",
+     "pregunta": "Quants euros són d'aranzel?",
      "opcions": [
-      "72",
-      "10",
-      "16"
+      "Tres",
+      "Cinc",
+      "Deu"
      ],
-     "correcta": 2
+     "correcta": 0
     },
     {
-     "pregunta": "On es van fer sobretot les proves?",
+     "pregunta": "Què diuen les botigues europees de Shein o Temu?",
      "opcions": [
-      "A la línia del Maresme",
-      "A Girona",
-      "A l'Alt Pirineu"
+      "Que fan competència deslleial",
+      "Que són massa cares",
+      "Que tanquen de seguida"
      ],
      "correcta": 0
     }
    ]
   },
   {
-   "id": "20261126-11",
+   "id": "20261127-05",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
+   "ambit": "Món",
+   "titol": "Espanya jugarà les semifinals de la Copa Davis",
+   "text": "Espanya ha arribat a les semifinals de la Copa Davis de tennis. Ho ha aconseguit aquest dijous a Bolonya, on ha vençut Àustria als quarts de final.\n\nEls protagonistes han estat dos tennistes joves: Rafa Jódar i Dani Mérida. Carlos Alcaraz va ser al banc i no va haver de jugar. Mérida començava l'any sent el número 165 del món. Ara és el número 39.\n\nLa semifinal és dissabte. L'equip espanyol jugarà contra la Gran Bretanya. Els britànics han eliminat Alemanya, l'equip de Sascha Zverev, número 1 del circuit. Segons la BBC, Gran Bretanya torna a les semifinals per primera vegada des del 2019.",
+   "paraules": 104,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/deportes/tenis/20261126/11694412/son-tiempos-vacas-gordas-espana-semifinal-copa-davis.html"
+    },
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/deportes/tenis/2026-11-26/merida-y-jodar-nuevos-vientos-y-unas-semifinales-contra-gran-bretana.html"
+    },
+    {
+     "nom": "BBC",
+     "enllac": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "quarts de final",
+     "significat": "Ronda en què hi ha vuit equips i en passen quatre."
+    },
+    {
+     "paraula": "semifinal",
+     "significat": "Ronda en què només queden quatre equips i en passen dos."
+    }
+   ],
+   "pregunta": "Contra qui jugarà Espanya la semifinal?",
+   "resposta": "Contra la Gran Bretanya.",
+   "quiz": [
+    {
+     "pregunta": "On s'ha jugat el partit contra Àustria?",
+     "opcions": [
+      "A Bolonya",
+      "A Madrid",
+      "A Londres"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Quin lloc ocupa ara Dani Mérida al món?",
+     "opcions": [
+      "El 165",
+      "El 39",
+      "El 1"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quin equip han eliminat els britànics?",
+     "opcions": [
+      "Àustria",
+      "Alemanya",
+      "França"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261127-06",
+   "categoria": "esports",
+   "categoria_nom": "Esports",
+   "ambit": "Espanya",
+   "titol": "El bàsquet guanya Montenegro de 31 punts",
+   "text": "La selecció espanyola de bàsquet ha guanyat a Montenegro, a Podgorica, amb 31 punts de diferència. Era una victòria important. Espanya venia de tres derrotes seguides i havia perdut el lideratge del grup.\n\nLa clau va ser el ritme alt de joc. A la mitja part, Espanya manava de set punts. Al final del tercer quart ja n'eren vint. Onze dels dotze jugadors van anotar. Cap no va jugar més de vint minuts.\n\nL'heroi inesperat va ser Pierre Oriola, de 34 anys. Va marcar 16 punts i va agafar 7 rebots.\n\nEl proper partit serà diumenge a les 18.00 hores a Santiago. Espanya jugarà contra Grècia per intentar la setena victòria del grup.",
+   "paraules": 113,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/deportes/baloncesto/20261126/11694415/espana-aclara-montenegro-camino-mundial.html"
+    },
+    {
+     "nom": "El País",
+     "enllac": "https://elpais.com/deportes/baloncesto/2026-11-26/una-espana-muy-coral-recobra-el-pulso-en-montenegro.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "rebot",
+     "significat": "Pilota que es recull després d'un tir fallat."
+    },
+    {
+     "paraula": "selecció",
+     "significat": "Equip format pels millors jugadors d'un país."
+    }
+   ],
+   "pregunta": "Quants punts va marcar Pierre Oriola?",
+   "resposta": "Setze punts.",
+   "quiz": [
+    {
+     "pregunta": "Contra quin equip ha guanyat Espanya?",
+     "opcions": [
+      "Grècia",
+      "Montenegro",
+      "Itàlia"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Quants jugadors van anotar?",
+     "opcions": [
+      "Cinc",
+      "Onze",
+      "Dotze"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Per què era important la victòria?",
+     "opcions": [
+      "Venia de tres derrotes seguides",
+      "Era la final del Mundial",
+      "Era el primer partit"
+     ],
+     "correcta": 0
+    }
+   ]
+  },
+  {
+   "id": "20261127-07",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
+   "ambit": "Catalunya",
+   "titol": "Falsa alarma per una maleta sospitosa a l'estació de Vilanova",
+   "text": "Aquest dijous s'ha tancat l'estació de tren de Vilanova i la Geltrú per una maleta sospitosa. Cap a les 10.40 hores, Renfe va avisar els Mossos d'Esquadra. L'objecte era dins d'un tren de Rodalies.\n\nPrimer van desallotjar el vagó i el tren. Després, per seguretat, també l'estació. Es va oferir un servei alternatiu per carretera.\n\nEls especialistes en explosius, els Tedax, van revisar la maleta amb un robot. Van fer una petita detonació controlada per obrir-la. Això va fer pensar a alguns viatgers que havia explotat, però no era així.\n\nFinalment, els Mossos van descartar qualsevol amenaça. Era una falsa alarma. Ara busquen l'home que va deixar la maleta per aclarir què va passar.",
+   "paraules": 114,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/societat/successos/desallotgen-l-estacio-vilanova-geltru-objecte-sospitos_1_5923705.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "desallotjar",
+     "significat": "Fer sortir les persones d'un lloc per seguretat."
+    },
+    {
+     "paraula": "Tedax",
+     "significat": "Policies especialitzats a revisar objectes que poden ser explosius."
+    }
+   ],
+   "pregunta": "Què van descartar els Mossos?",
+   "resposta": "Que a la maleta hi hagués una amenaça.",
+   "quiz": [
+    {
+     "pregunta": "Quina estació es va tancar?",
+     "opcions": [
+      "Vilanova i la Geltrú",
+      "Sants",
+      "Girona"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Com van revisar la maleta els Tedax?",
+     "opcions": [
+      "Amb un robot",
+      "Amb un gos només",
+      "Amb les mans"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Què busquen ara els Mossos?",
+     "opcions": [
+      "Un tren perdut",
+      "L'home que va deixar la maleta",
+      "Un altre equip"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261127-08",
+   "categoria": "successos",
+   "categoria_nom": "Successos",
+   "ambit": "Espanya",
+   "titol": "Detinguts 28 estafadors per internet i per telèfon",
+   "text": "La Guardia Civil de Cantàbria ha detingut 28 persones i n'investiga quatre més. Viuen a Barcelona i Girona. Se les acusa d'haver fet estafes per internet, amb víctimes de Cantàbria, per més de 112.000 euros.\n\nUna estafa consistia a enviar un SMS que s'assemblava al d'un banc, amb un enllaç. Després trucaven per telèfon per aconseguir les claus del compte. Aquesta tècnica es diu smishing i vishing.\n\nAltres estafadors enviaven un WhatsApp. Es feien passar per un fill o un amic que necessitava diners amb urgència. També hi havia anuncis falsos de lloguer de pisos i una plataforma falsa per comprar criptomonedes.",
+   "paraules": 102,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/sucesos/20261124/11692124/detienen-28-personas-barcelona-girona-ciberestafas-mas-112-000-euros.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "estafa",
+     "significat": "Engany per quedar-se els diners d'una altra persona."
+    },
+    {
+     "paraula": "criptomoneda",
+     "significat": "Moneda que només existeix a internet."
+    }
+   ],
+   "pregunta": "Quantes persones ha detingut la Guardia Civil?",
+   "resposta": "Vint-i-vuit.",
+   "quiz": [
+    {
+     "pregunta": "De quina quantitat van ser les estafes?",
+     "opcions": [
+      "Més de 112.000 euros",
+      "Uns 500 euros",
+      "Un milió d'euros"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Com començava l'estafa de l'SMS?",
+     "opcions": [
+      "Amb una carta",
+      "Amb un SMS que semblava del banc",
+      "Amb una visita a casa"
+     ],
+     "correcta": 1
+    },
+    {
+     "pregunta": "Què demanaven els falsos familiars per WhatsApp?",
+     "opcions": [
+      "Fotos",
+      "Diners amb urgència",
+      "Una trucada"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261127-09",
    "categoria": "ciencia",
    "categoria_nom": "Ciència i tecnologia",
    "ambit": "Món",
-   "titol": "Hera mostra el cràter que va deixar la missió DART",
-   "text": "La sonda europea Hera ha enviat imatges de l'asteroide Dimorphos. Fa quatre anys, la nau DART hi va xocar a propòsit per provar com desviar un asteroide.\n\nLes imatges mostren un cràter tan gran com un estadi esportiu. Al mig hi ha una forma allargada que els científics encara no saben què és.\n\nDimorphos fa uns 151 metres de diàmetre i gira al voltant de l'asteroide Didymos. El xoc de DART va escurçar uns 33 minuts el temps que triga a fer una volta. Cap dels dos asteroides amenaçava la Terra.\n\nAra Dimorphos gira de manera caòtica. L'Agència Espacial Europea ha presentat els resultats a Berlín.",
-   "paraules": 106,
+   "titol": "La sonda Hera mostra el cràter de la missió DART",
+   "text": "La sonda europea Hera ha enviat les primeres imatges de l'asteroide Dimorphos. Fa quatre anys, la nau DART va xocar contra aquest asteroide. Era un assaig per protegir la Terra algun dia. Cap dels dos asteroides era un perill.\n\nLes imatges mostren un gran cràter, de la mida d'un estadi esportiu. Al mig hi ha una forma allargada. Els científics encara no saben què és.\n\nDimorphos mesura uns 151 metres. Gira al voltant d'un asteroide més gran, Didymos. El xoc de DART va fer que la volta durés uns 33 minuts menys. Abans, Dimorphos mostrava sempre la mateixa cara a Didymos. Ara gira de manera caòtica.\n\nL'Agència Espacial Europea va presentar els resultats a Berlín.",
+   "paraules": 115,
    "minuts": 1,
    "fonts": [
     {
@@ -601,214 +503,214 @@
    ],
    "glossari": [
     {
-     "paraula": "Asteroide",
+     "paraula": "asteroide",
      "significat": "Roca gran que viatja per l'espai."
     },
     {
-     "paraula": "Cràter",
-     "significat": "Forat gran i rodó que deixa un impacte."
+     "paraula": "cràter",
+     "significat": "Forat gran que deixa un impacte."
     }
    ],
-   "pregunta": "Quant fa Dimorphos de diàmetre?",
-   "resposta": "Uns 151 metres.",
+   "pregunta": "Quina mida té el cràter?",
+   "resposta": "La d'un estadi esportiu.",
    "quiz": [
     {
      "pregunta": "Quina sonda ha enviat les imatges?",
      "opcions": [
-      "DART",
       "Hera",
-      "Orion"
+      "Voyager",
+      "DART"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Quant mesura Dimorphos?",
+     "opcions": [
+      "Uns 151 metres",
+      "Uns 15 metres",
+      "Uns 730 quilòmetres"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Com gira ara Dimorphos?",
+     "opcions": [
+      "Sempre igual",
+      "De manera caòtica",
+      "No gira"
      ],
      "correcta": 1
-    },
-    {
-     "pregunta": "Quant temps fa que va xocar DART?",
-     "opcions": [
-      "Quatre anys",
-      "Un any",
-      "Deu anys"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "Per què van fer xocar DART contra l'asteroide?",
-     "opcions": [
-      "Per provar com desviar un asteroide",
-      "Per destruir la Terra",
-      "Per fer-hi un forat per viure"
-     ],
-     "correcta": 0
     }
    ]
   },
   {
-   "id": "20261126-12",
+   "id": "20261127-10",
    "categoria": "ciencia",
    "categoria_nom": "Ciència i tecnologia",
-   "ambit": "Espanya",
-   "titol": "La Wolbachia, el bacteri que ajuda contra el dengue",
-   "text": "La Wolbachia és un bacteri molt petit. Només es pot veure amb microscopi. Viu dins d'insectes, com mosquits, papallones o mosques, i no afecta els humans.\n\nSegons un grup de científics de la Universitat Autònoma de Madrid, és present en el 40% de les espècies d'artròpodes. Passa d'una generació a la següent pels ous de les femelles. Per això, en molts casos, elimina els mascles o els converteix en femelles.\n\nEls científics l'usen per reduir malalties que transmeten els mosquits, com el dengue. El setembre del 2026, una empresa va alliberar 600.000 mosquits tigre als Estats Units per reduir una plaga.",
-   "paraules": 101,
-   "minuts": 1,
-   "fonts": [
-    {
-     "nom": "El País",
-     "enllac": "https://elpais.com/ciencia/2026-11-25/el-secreto-de-la-wolbachia-la-bacteria-que-convierte-a-los-insectos-macho-en-hembras.html"
-    }
-   ],
-   "glossari": [
-    {
-     "paraula": "Bacteri",
-     "significat": "Ésser viu minúscul, d'una sola cèl·lula."
-    },
-    {
-     "paraula": "Plaga",
-     "significat": "Gran quantitat d'animals que causa problemes."
-    }
-   ],
-   "pregunta": "Com es transmet la Wolbachia?",
-   "resposta": "Pels ous de les femelles.",
-   "quiz": [
-    {
-     "pregunta": "Com es pot veure la Wolbachia?",
-     "opcions": [
-      "Amb microscopi",
-      "A simple vista",
-      "Amb un telescopi"
-     ],
-     "correcta": 0
-    },
-    {
-     "pregunta": "En quin percentatge d'espècies d'artròpodes és present?",
-     "opcions": [
-      "4%",
-      "40%",
-      "99%"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Per a què la fan servir els científics?",
-     "opcions": [
-      "Per fer mel",
-      "Per escalfar cases",
-      "Per reduir malalties dels mosquits"
-     ],
-     "correcta": 2
-    }
-   ]
-  },
-  {
-   "id": "20261126-13",
-   "categoria": "cultura",
-   "categoria_nom": "Cultura",
    "ambit": "Món",
-   "titol": "Mor als 65 anys Andy Taylor, guitarrista de Duran Duran",
-   "text": "Andy Taylor, guitarrista del grup britànic Duran Duran, ha mort als 65 anys. Ho han confirmat la seva família i els companys de la banda en un comunicat.\n\nDuran Duran va ser un dels grups més coneguts de la música pop dels anys vuitanta. Van fer cançons com Hungry Like the Wolf, The Reflex i Rio. El seu èxit va anar lligat al naixement de la cadena MTV.\n\nEl grup ha guanyat dos premis Grammy i va entrar al Saló de la Fama del Rock and Roll el 2022. També va gravar A View to a Kill, el tema d'una pel·lícula de James Bond.\n\nEls seus companys diuen que la seva manera de tocar va impulsar les cançons del grup. Segons ells, també hi va aportar molt humor.",
-   "paraules": 128,
+   "titol": "La superlluna del castor s'ha vist sobre Roma",
+   "text": "La superlluna del castor s'ha pogut veure aquests dies al cel de Roma. Les imatges mostren una Lluna especialment gran i brillant.\n\nUna superlluna passa quan la Lluna plena coincideix amb el perigeu. El perigeu és el punt de la seva òrbita més proper a la Terra. Llavors la Lluna pot semblar fins a un 14% més gran. També pot ser un 30% més brillant que la lluna plena més llunyana.\n\nEl nom ve de tradicions d'Amèrica del Nord, que donen un nom a cada lluna plena de l'any. Fa referència a l'època en què els castors preparen refugis i guarden menjar per a l'hivern.\n\nEs pot veure a simple vista, sense telescopi, si el temps ho permet.",
+   "paraules": 118,
    "minuts": 1,
    "fonts": [
     {
      "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/cultura/20261125/11693501/muere-andy-taylor-guitarrista-duran-duran-conquisto-mtv.html"
+     "enllac": "https://www.lavanguardia.com/ciencia/universo/20261126/11693467/asi-visto-superluna-castor-roma-italia.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Comunicat",
-     "significat": "Text oficial que s'envia per donar una notícia."
+     "paraula": "perigeu",
+     "significat": "Punt de l'òrbita de la Lluna més proper a la Terra."
     },
     {
-     "paraula": "Saló de la Fama",
-     "significat": "Honor que reconeix els artistes més importants."
+     "paraula": "òrbita",
+     "significat": "Camí que fa un astre al voltant d'un altre."
     }
    ],
-   "pregunta": "Quina cançó va gravar el grup per a una pel·lícula de James Bond?",
-   "resposta": "A View to a Kill.",
+   "pregunta": "Cal un telescopi per veure la superlluna?",
+   "resposta": "No, es veu a simple vista.",
    "quiz": [
     {
-     "pregunta": "Quants anys tenia Andy Taylor?",
+     "pregunta": "Des de quina ciutat s'han publicat imatges?",
      "opcions": [
-      "56",
-      "65",
-      "75"
+      "Roma",
+      "Madrid",
+      "Tòquio"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Quant més gran pot semblar la Lluna?",
+     "opcions": [
+      "Un 2%",
+      "Fins a un 14%",
+      "El doble"
      ],
      "correcta": 1
     },
     {
-     "pregunta": "Quin instrument tocava?",
+     "pregunta": "Què fan els castors en aquesta època?",
      "opcions": [
-      "Bateria",
-      "Piano",
-      "Guitarra"
-     ],
-     "correcta": 2
-    },
-    {
-     "pregunta": "Amb quina cadena de televisió va anar lligat l'èxit del grup?",
-     "opcions": [
-      "MTV",
-      "3Cat",
-      "BBC"
+      "Preparen refugis i guarden menjar",
+      "Migren cap al sud",
+      "Dormen tot el dia"
      ],
      "correcta": 0
     }
    ]
   },
   {
-   "id": "20261126-14",
+   "id": "20261127-11",
    "categoria": "cultura",
    "categoria_nom": "Cultura",
-   "ambit": "Espanya",
-   "titol": "'La bola negra' és la pel·lícula més vista del 2026",
-   "text": "La bola negra, dels directors Javier Ambrossi i Javier Calvo, és la pel·lícula més taquillera de l'any a Espanya. Ha recaptat 40,5 milions d'euros des de l'estrena, el 25 de setembre.\n\nHa superat Spider-Man: Brand New Day, que n'ha recaptat 40,3 milions. Gairebé sis milions de persones l'han vist en vuit setmanes. És la tercera producció espanyola més taquillera de la història.\n\nLa pel·lícula es va estrenar al festival de Cannes al maig. Allà els directors van guanyar el premi a la millor direcció. L'Acadèmia de cinema l'ha escollida per representar Espanya als Oscar.\n\nNetflix la distribueix als Estats Units i l'estrenarà a la plataforma el 2 de desembre.",
-   "paraules": 109,
+   "ambit": "Catalunya",
+   "titol": "El Mago Pop compra el Teatre Regina de Barcelona",
+   "text": "El Mago Pop ha comprat el Teatre Regina, a Barcelona. El mag, que es diu Antonio Díaz, ho ha confirmat aquest dijous. El teatre és al carrer Sèneca, al barri de Gràcia.\n\nEl Regina va tancar al juny. Durant gairebé quaranta anys havia fet teatre infantil i juvenil. Va tancar perquè es va vendre l'edifici.\n\nEl nou propietari assegura que continuarà sent un teatre. Hi haurà obres de teatre, musicals i altres espectacles. Diu que vol crear llocs de feina per a professionals d'aquí.\n\nÉs el tercer teatre que compra el Mago Pop a Barcelona. Ja tenia el Victòria i l'Aquitània, aquest últim amb la cantant Aitana. Encara no hi ha data de reobertura.",
+   "paraules": 114,
    "minuts": 1,
    "fonts": [
     {
-     "nom": "La Vanguardia",
-     "enllac": "https://www.lavanguardia.com/cultura/20261126/11693366/imparable-viaje-bola-negra-oscars.html"
+     "nom": "Ara",
+     "enllac": "https://www.ara.cat/cultura/teatre/mago-pop-tanca-compra-teatre-regina_1_5923611.html"
     }
    ],
    "glossari": [
     {
-     "paraula": "Taquillera",
-     "significat": "Pel·lícula que ha recaptat molts diners als cinemes."
+     "paraula": "propietari",
+     "significat": "Persona a qui pertany una cosa."
     },
     {
-     "paraula": "Distribuir",
-     "significat": "Fer arribar una pel·lícula a cinemes o plataformes."
+     "paraula": "reobertura",
+     "significat": "Moment en què un lloc torna a obrir."
     }
    ],
-   "pregunta": "Quin premi va guanyar a Cannes?",
-   "resposta": "El de millor direcció.",
+   "pregunta": "Quan va tancar el Teatre Regina?",
+   "resposta": "Al juny.",
    "quiz": [
     {
-     "pregunta": "Quants milions d'euros ha recaptat?",
+     "pregunta": "Qui ha comprat el Teatre Regina?",
      "opcions": [
-      "4,05",
-      "40,5",
-      "405"
-     ],
-     "correcta": 1
-    },
-    {
-     "pregunta": "Quina pel·lícula ha superat?",
-     "opcions": [
-      "La Odisea",
-      "Torrente, presidente",
-      "Spider-Man: Brand New Day"
-     ],
-     "correcta": 2
-    },
-    {
-     "pregunta": "Quan arribarà a Netflix?",
-     "opcions": [
-      "El 2 de desembre",
-      "El 25 de setembre",
-      "El 16 d'octubre"
+      "El Mago Pop",
+      "Aitana",
+      "Una escola"
      ],
      "correcta": 0
+    },
+    {
+     "pregunta": "En quin barri és el teatre?",
+     "opcions": [
+      "Gràcia",
+      "El Raval",
+      "Sants"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Per què va tancar el teatre?",
+     "opcions": [
+      "Per falta de públic",
+      "Perquè es va vendre l'edifici",
+      "Per un incendi"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "id": "20261127-12",
+   "categoria": "cultura",
+   "categoria_nom": "Cultura",
+   "ambit": "Catalunya",
+   "titol": "El Manga Barcelona arriba amb dibuixants del Japó",
+   "text": "El saló Manga Barcelona torna del 5 al 8 de desembre. Serà a la Fira Gran Via de l'Hospitalet de Llobregat. Aquesta és la 32a edició.\n\nVindran des del Japó molts autors de manga. L'invitat estrella és Junji Itō, un dels mestres del terror. També ha dissenyat el cartell, on hi ha els seus personatges al Park Güell.\n\nVindrà Hyuganatsu, autora de Els diaris de la boticària. Signarà llibres disfressada de Uririn, un senglar simpàtic. Cada vegada més dibuixants japonesos amaguen la cara per protegir la seva vida privada.\n\nTambé vindran els creadors de Kinnikuman, que a Catalunya es va dir Musculman.",
+   "paraules": 102,
+   "minuts": 1,
+   "fonts": [
+    {
+     "nom": "La Vanguardia",
+     "enllac": "https://www.lavanguardia.com/qf/20261127/11694078/manga-vuelve-barcelona-cargado-leyendas.html"
+    }
+   ],
+   "glossari": [
+    {
+     "paraula": "manga",
+     "significat": "Còmic d'origen japonès."
+    },
+    {
+     "paraula": "mangaka",
+     "significat": "Persona que dibuixa o escriu manga."
+    }
+   ],
+   "pregunta": "On es farà el Manga Barcelona?",
+   "resposta": "A la Fira Gran Via de l'Hospitalet.",
+   "quiz": [
+    {
+     "pregunta": "Quan és el saló?",
+     "opcions": [
+      "Del 5 al 8 de desembre",
+      "Del 1 al 3 de gener",
+      "Del 10 al 12 d'octubre"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Qui és l'invitat estrella?",
+     "opcions": [
+      "Junji Itō",
+      "Kinnikuman",
+      "Uririn"
+     ],
+     "correcta": 0
+    },
+    {
+     "pregunta": "Per què amaguen la cara alguns dibuixants?",
+     "opcions": [
+      "Per vergonya",
+      "Per protegir la vida privada",
+      "Per jugar amb el públic"
+     ],
+     "correcta": 1
     }
    ]
   }
